@@ -33,15 +33,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Chemistry
+      institution: City University of Hong Kong
+      year: 2021
+    - course: MSc, Medicinal Chemistry
+      institution: Jinan University
+      year: 2018
+    - course: BEng in Pharmaceutical Engineering
+      institution: Wuhan Institute of Technology
+      year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -53,13 +53,13 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/kecheng55
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?&user=wvnvmnmaaaj
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
@@ -80,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dr. Ke Cheng's primary research pursuits revolve around the creation of innovative chemical techniques for advancing cancer drug discovery and therapeutic applications. He pioneered the utilization of tetrazole and isoxazole groups as native photo-cross-linkers in chemoproteomics, offering robust methodologies for mapping the interactome of drugs containing these components. Additionally, Dr. Cheng possesses substantial expertise in crafting near-infrared (NIR) fluorescence probes and inorganic biomaterials for nanomedicine. His contributions encompass the invention of a range of activatable fluorescence probes and the development of fully functionalized black phosphorus for precise, targeted cancer theranostics.
 {style="text-align: justify;"}
