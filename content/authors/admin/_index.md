@@ -36,7 +36,7 @@ education:
     - course: PhD in Chemistry
       institution: City University of Hong Kong
       year: 2021
-    - course: MSc, Medicinal Chemistry
+    - course: MSc in Medicinal Chemistry
       institution: Jinan University
       year: 2018
     - course: BEng in Pharmaceutical Engineering
