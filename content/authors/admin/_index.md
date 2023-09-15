@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ke Cheng 吳恩達
+title: Ke Cheng 程柯
 
 # Full name (for SEO)
 first_name: Ke
