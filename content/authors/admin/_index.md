@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ke Cheng 程柯
+title: Ke Cheng 程 柯
 
 # Full name (for SEO)
 first_name: Ke
@@ -58,8 +58,11 @@ social:
     display:
       header: true
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+    icon_pack: ai
     link: https://scholar.google.com/citations?&user=wvnvmnmaaaj
+  - icon: ORCID
+    icon_pack: fab
+    link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
     link: https://linkedin.com/in/kecheng5
