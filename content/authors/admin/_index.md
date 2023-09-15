@@ -60,7 +60,7 @@ social:
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?&user=wvnvmnmaaaj
-  - icon: fa-orcid
+  - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0001-5057-3120
   - icon: linkedin
