@@ -48,13 +48,9 @@ featured: true
 #   url: http://example.org
 
 url_pdf: uploads/Angew2017.pdf
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_video: 'https://youtube.com'
+url_Wiley Online Library: 'https://onlinelibrary.wiley.com/doi/abs/10.1002/ange.201709584'
+url_PubMed: 'https://pubmed.ncbi.nlm.nih.gov/28967196'
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
