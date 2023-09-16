@@ -32,6 +32,7 @@ sections:
           date_end: ''
           description: |2-
               Responsibilities include:
+    
               * Chemical proteomic study of disulfide/diselenide probes
               * Self-assembly nano-PROTAC for synergetic photo-chemo-therapy
               * Biomedical application of black phosphorus
