@@ -56,7 +56,7 @@ url_video: 'https://youtube.com'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: '© 2017 Wiley-VCH Verlag GmbH & Co. KGaA, Weinheim'
   focal_point: ''
   preview_only: false
 
