@@ -37,10 +37,10 @@ sections:
               * Self-assembly nano-PROTAC for synergetic photo-chemo-therapy
               * Biomedical application of black phosphorus
         - title: Postdoctoral Researcher
-          company: Department of Chemistry, City University of Hong Kong
-          company_url: https://www.cityu.edu.hk/chem/
+          company: City University of Hong Kong
+          company_url: https://www.cityu.edu.hk/
           company_logo: cityu
-          location: Hong Kong
+          location: Kowloon Tong, Hong Kong
           date_start: '2021-09-01'
           date_end: '2022-09-30'
           description: |2-
