@@ -26,27 +26,25 @@ sections:
       items:
         - title: Postdoctoral Researcher
           company: Sun Yat-sen University
-          company_url: https://www.sysu.edu.cn
+          company_url: https://www.sysu.edu.cn/sysuen
           company_logo: sysu
           location: Shenzhen, China
           date_start: '2022-10-01'
           date_end: ''
           description: |2-
               Projects include:
-    
               * Chemical proteomic study of disulfide/diselenide probes
               * Self-assembly nano-PROTAC for synergetic photo-chemo-therapy
               * Biomedical application of black phosphorus
         - title: Postdoctoral Researcher
-          company: City University of Hong Kong
-          company_url: ''
+          company: Department of Chemistry, City University of Hong Kong
+          company_url: https://www.cityu.edu.hk/chem/
           company_logo: cityu
           location: Hong Kong
           date_start: '2021-09-01'
           date_end: '2022-09-30'
           description: |2-
               Projects include:
-    
               * Developing isoxazole group as a native photo-cross-linker for chemoproteomics
               * Self-assembly activatable photosensitizers for targeted cancer theranostics
     design:
