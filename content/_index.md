@@ -52,7 +52,6 @@ sections:
     design:
       columns: '2'
  - block: markdown
-   id: gallery
    content:
       title: Gallery
       subtitle: ''
