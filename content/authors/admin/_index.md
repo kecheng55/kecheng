@@ -28,7 +28,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
   - Chemical Biology
   - Medicinal Chemistry
-  - Materials Chemistry
+  - Nanomedicine
 
 # Education to show in About widget
 education:
@@ -50,7 +50,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:ke.cheng@my.cityu.edu.hk'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/kecheng55
@@ -66,9 +66,6 @@ social:
   - icon: researchgate
     icon_pack: fab
     link: https://www.researchgate.net/profile/Ke-Cheng-6
-  - icon: linkedin
-    icon_pack: fab
-    link: https://linkedin.com/in/kecheng5
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
