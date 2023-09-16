@@ -27,7 +27,7 @@ sections:
           company: Sun Yat-sen University
           company_url: ''
           company_logo: org-gc
-          location: Shenzhen, China
+          location: Shenzhen
           date_start: '2022-10-01'
           date_end: ''
           description: |2-
