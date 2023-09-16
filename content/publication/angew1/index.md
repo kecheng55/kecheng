@@ -74,4 +74,4 @@ Highlights:
 3. The primary cellular targets of the screening hits are validated by chemoproteomics.
 4. Tetrazole probes are found with specific labeling towards endogenous Annexin A2.
 
-Supporting Information can be added [here](uploads/Angew2017.pdf).
+Supporting Information can be added [here](main/uploads/Angew2017.pdf).
