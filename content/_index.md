@@ -74,8 +74,7 @@ sections:
     design:
       columns: '2'
       view: citation
-- block: posts
-    id: posts
+- block: collection
     content:
       title: Recent Posts
       subtitle: ''
