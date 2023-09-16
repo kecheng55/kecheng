@@ -27,10 +27,14 @@ sections:
           company: Sun Yat-sen University
           company_url: ''
           company_logo: sysu
-          location: Shenzhen
+          location: Shenzhen, China
           date_start: '2022-10-01'
           date_end: ''
           description: |2-
+          Projects include:
+              * Chemical proteomic study of disulfide/diselenide probes
+              * Self-assembly nano-PROTAC for synergetic photo-chemo-therapy
+              * Biomedical application of black phosphosrus
         - title: Postdoctoral Researcher
           company: City University of Hong Kong
           company_url: ''
@@ -38,7 +42,10 @@ sections:
           location: Hong Kong
           date_start: '2021-09-01'
           date_end: '2022-09-30'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: |2-
+          Projects include:
+              * Developing isoxazole group as a native photo-cross-linker for chemoproteomics
+              * Self-assembly activatable photosensitizers for targeted cancer theranostics
     design:
       columns: '2'
   - block: accomplishments
