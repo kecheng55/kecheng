@@ -49,7 +49,7 @@ sections:
               * Self-assembly activatable photosensitizers for targeted cancer theranostics
     design:
       columns: '2'
-  - block: posts
+  - block: collection
     id: posts
     content:
       title: Recent Posts
