@@ -12,9 +12,6 @@ authors:
   - Ke Ding
   - Zhengqiu Li
 
-# Author notes (optional)
-author_notes:""
-
 date: '2017-10-01T00:00:00Z'
 doi: 10.1002/anie.201709584
 
