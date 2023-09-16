@@ -44,10 +44,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: uploads/Angew2017.pdf
-- name: Wiley Online Library
-   url: https://onlinelibrary.wiley.com/doi/abs/10.1002/ange.201709584
-- name: PubMed
-   url: https://pubmed.ncbi.nlm.nih.gov/28967196'
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
