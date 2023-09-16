@@ -44,7 +44,7 @@ sections:
           date_start: '2021-09-01'
           date_end: '2022-09-30'
           description: |2-
-          Projects include:
+              Projects include:
     
               * Developing isoxazole group as a native photo-cross-linker for chemoproteomics
               * Self-assembly activatable photosensitizers for targeted cancer theranostics
