@@ -42,7 +42,7 @@ sections:
           company_logo: org-x
           location: Hong Kong
           date_start: '2021-09-01'
-          date_end: '2022-9-30'
+          date_end: '2022-09-30'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
