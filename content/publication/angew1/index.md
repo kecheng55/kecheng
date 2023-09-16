@@ -12,7 +12,7 @@ authors:
   - Ke Ding
   - Zhengqiu Li
 
-date: '2017-10-01T00:00:00Z'
+date: '2017-10-01'
 doi: 10.1002/anie.201709584
 
 # Schedule page publish date (NOT publication's date).
