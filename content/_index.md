@@ -26,16 +26,11 @@ sections:
         - title: Postdoctoral Researcher
           company: Sun Yat-sen University
           company_url: ''
-          company_logo: sysu.png
+          company_logo: sysu
           location: Shenzhen
           date_start: '2022-10-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
         - title: Postdoctoral Researcher
           company: City University of Hong Kong
           company_url: ''
