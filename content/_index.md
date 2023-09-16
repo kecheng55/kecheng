@@ -31,7 +31,7 @@ sections:
           date_start: '2022-10-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
+              Projects include:
     
               * Chemical proteomic study of disulfide/diselenide probes
               * Self-assembly nano-PROTAC for synergetic photo-chemo-therapy
@@ -45,6 +45,7 @@ sections:
           date_end: '2022-09-30'
           description: |2-
           Projects include:
+    
               * Developing isoxazole group as a native photo-cross-linker for chemoproteomics
               * Self-assembly activatable photosensitizers for targeted cancer theranostics
     design:
