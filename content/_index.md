@@ -105,7 +105,7 @@ sections:
       columns: '2'
  - block: markdown
    id: gallery
-    content:
+   content:
       title: Gallery
       subtitle: ''
       text: |-
