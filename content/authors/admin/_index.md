@@ -57,8 +57,8 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: ai
+  - icon: google # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: fab
     link: https://scholar.google.com/citations?&user=wvnvmnmaaaj
   - icon: orcid
     icon_pack: fab
@@ -80,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-Dr. Ke Cheng's primary research pursuits revolve around the creation of innovative chemical techniques for advancing cancer drug discovery and therapeutic applications. He pioneered the utilization of tetrazole and isoxazole groups as native photo-cross-linkers in chemoproteomics, offering robust methodologies for mapping the interactome of drugs containing these components. Additionally, Dr. Cheng possesses substantial expertise in crafting near-infrared (NIR) fluorescence probes and inorganic biomaterials for nanomedicine. His contributions encompass the invention of a range of activatable fluorescence probes and the development of fully functionalized black phosphorus for precise, targeted cancer theranostics.
+Dr. Ke Cheng's research interests revolve around the creation of innovative chemical techniques to advance cancer drug discovery and therapeutic options. He pioneered the utilization of tetrazole and isoxazole groups as native photo-cross-linkers for chemoproteomics, offering robust methodologies for mapping the interactome of tetrazole/isoxazole-based drugs. Additionally, Dr. Cheng possesses substantial expertise in crafting functional chemical probes and inorganic materials as nanomaterials for biomedical applications. His contributions encompass the invention of a range of activatable fluorescence probes and the development of functionalized black phosphorus for precise, targeted cancer theranostics.
 {style="text-align: justify;"}
