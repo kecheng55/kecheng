@@ -30,8 +30,6 @@ publication_short: In *Angew. Chem. Int. Ed. 2017, 56 (47), 15044-15048*
 
 abstract: Target-identification phenotypic screening has been a powerful approach in drug discovery; however, it is hindered by difficulties in identifying the underlying cellular targets. To address this challenge, we have combined phenotypic screening of a fully functionalized small-molecule library with competitive affinity-based proteome profiling to map and functionally characterize the targets of screening hits. Using this approach, we identified ANXA2, PDIA3/4, FLAD1, and NOS2 as primary cellular targets of two bioactive molecules that inhibit cancer cell proliferation. We further demonstrated that a panel of probes can label and/or image annexin A2 (a cancer biomarker) from different cancer cell lines, thus providing opportunities for potential cancer diagnosis and therapy.
 
-Highlights: 1. The photo-cross-linking of tetrazole is investigated for photoaffinity labeling.
-
 # Summary. An optional shortened abstract.
 summary: Tetrazole-based probes bearing an alkyne handle are suitable for phenotypic screening and affinity-based proteome profiling, especially Tz6, which can sensitively detect a cancer biomarker by both protein labeling and bioimaging.
 
@@ -70,9 +68,10 @@ image:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 ---
+Highlights: 
+1. The photo-cross-linking of tetrazole is investigated for photoaffinity labeling.
+2. Functionalized tetrazoles are designed, synthesized, and applied to phenotypic screening for bioactive hits against cancer proliferation.
+3. The primary cellular targets of the screening hits are validated by chemoproteomics.
+4. Tetrazole probes are found with specific labeling towards endogenous Annexin A2.
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-Supplementary notes can be added [here](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fanie.201709584&file=anie201709584-sup-0001-misc_information.pdf).
+Supporting Information can be added [here](uploads/Angew2017.pdf).
