@@ -42,6 +42,7 @@ featured: true
 # links:
 # - name: Custom Link
 #   url: http://example.org
+links:
   - name: Wiley Online Library
     url: https://onlinelibrary.wiley.com/doi/abs/10.1002/ange.201709584
   - name: PubMed
