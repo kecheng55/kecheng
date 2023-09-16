@@ -5,8 +5,12 @@ title: 'Tetrazole-Based Probes for Integrated Phenotypic Screening, Affinity-Bas
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - Robert Ford
+  - Ke Cheng
+  - Jun-Seok Lee
+  - Piliang Hao
+  - Shao Q. Yao
+  - Ke Ding
+  - Zhengqiu Li
 
 # Author notes (optional)
 author_notes:
