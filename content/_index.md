@@ -26,7 +26,7 @@ sections:
         - title: Postdoctoral Researcher
           company: Sun Yat-sen University
           company_url: ''
-          company_logo: org-gc
+          company_logo: sysu
           location: Shenzhen
           date_start: '2022-10-01'
           date_end: ''
