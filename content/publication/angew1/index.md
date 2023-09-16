@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'Tetrazole-Based Probes for Integrated Phenotypic Screening, Affinity-Based Proteome Profiling, and Sensitive Detection of a Cancer Biomarker'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
