@@ -14,10 +14,6 @@ authors:
 
 # Author notes (optional)
 author_notes:
-1. The photo-cross-linking of tetrazole is investigated for photoaffinity labeling.
-2. Functionalized tetrazoles are designed, synthesized, and applied to phenotypic screening for bioactive hits against cancer proliferation.
-3. The primary cellular targets of the screening hits are validated by chemoproteomics.
-4. Tetrazole probes are found with specific labeling towards endogenous Annexin A2.
 
 
 date: '2017-10-01T00:00:00Z'
