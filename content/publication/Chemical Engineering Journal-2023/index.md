@@ -1,29 +1,28 @@
 ---
-title: 'Self-assembled nano-photosensitizer for targeted, activatable, and biosafe cancer phototheranostics'
+title: 'Black phosphorus nanosheets enhance differentiation of neural progenitor cells for improved treatment in spinal cord injury'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Fumei He
   - admin
   - Junyang Qi
-  - Jie Zhang
-  - Huangxu Li
-  - Xiaojie Ren
-  - Wenyu Wei
-  - Lingkuan Meng
-  - Jing Li
-  - Qianqian Li
-  - Huatang Zhang
+  - Fangjie He
+  - Chengjun Chu
+  - Yue Xiong
+  - Jingxin Zhao
+  - JiaQi Ding
+  - FanShu Kong
+  - ZiMeng Cao
+  - Gan Liu
   - Wenbin Deng
-  - Hongyan Sun
-  - Lin Mei
 
-date: '2022-11-15'
-doi: 10.1016/j.biomaterials.2022.121916
+date: '2023-09-15'
+doi: 10.1016/j.cej.2023.1449776
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-11-15T00:00:00Z'
+publishDate: '2023-09-15T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -32,34 +31,32 @@ publishDate: '2022-11-15T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In ***Biomaterials***
-publication_short: In **_Biomaterials_**, 2022, _291_, 121916
+publication: In ***Chemical Engineering Journal***
+publication_short: In **_J. Chem. Eng._**, 2023, _472_, 144977
 
-abstract: Cancer treatment currently still faces crucial challenges in therapeutic effectiveness, precision, and complexity. Photodynamic therapy (PDT) as a non-invasive tactic has earned widespread popularity for its excellent therapeutic output, flexibility, and restrained toxicity. Nonetheless, drawbacks, including low efficiency, poor cancer specificity, and limited therapeutic depth, remain considerable during the cancer treatment. Although great effort has been made to improve the performance, the overall efficiency and biosafety are still ambiguous and unable to meet urgent clinical needs. Herein, this study integrates merits from previous PDT strategies and develops a cancer-targeting, activatable, biosafe photosensitizer. Owing to excellent self-assembly ability, this photosensitizer can be conveniently prepared as multifunctional nano-photosensitizers, namely MBNPs, and applied to in vivo cancer phototheranostics in “all-in-one” mode. This study successfully verifies the mechanism of MBNPs, then deploys them to cell-based and in vivo cancer PDT. Based on the unique cancer microenvironment, MBNPs achieve precise distribution, accumulation, and activation towards the tumor, releasing methylene blue as a potent photosensitizer for phototherapy. The PDT outcome demonstrates MBNPs’ superior cancer specificity, remarkable PDT efficacy, and negligible toxicity. Meanwhile, in vivo NIR fluorescence and photoacoustic imaging have been utilized to guide the PDT treatment synergistically. Additionally, the biosafety of the MBNPs-based PDT treatment is ensured, thus providing potential for future clinical studies.
+abstract: Stem cell transplantation holds great potential as a treatment option for nerve damage diseases. However, the therapeutic effects are significantly impeded by low survival rate and uncontrolled differentiation of stem cells. In this study, black phosphorus nanosheets (BPNs), which are biodegradable inorganic nanomaterials, are first revealed with remarkable abilities to regulate cellular redox homeostasis, enhance transplant survival rate of stem cells, and facilitate neural differentiation of neural progenitor cells (NPCs). These effects of BPNs are proved to be associated with the activation of nuclear factor erythroid 2-like 2 (Nrf2) pathways in NPCs. In vivo, BPNs-treated NPCs could effectively inhibit inflammatory response and neuronal apoptosis in the mice with spinal cord injury (SCI). In addition, BPNs-treated NPCs more effectively reduce glial scar formation and promote axon regeneration compared with natural NPCs in SCI site. These findings collectively support the therapeutic potentials of BPNs for advanced stem cell transplantation and neural tissue engineering in the future.
 
 # Summary. An optional shortened abstract.
-summary:  We have developed a GSH-triggered, activatable, and cancer-targeting probe, MBP, based on our rational design of a small NIRF photosensitizer, methylene blue. This multifunctional probe can self-assemble and present as nano-photosensitizer, MBNPs. Hence, an “all-in-one” cancer phototheranostic strategy with multiple cancer-targeting abilities and upgraded PDT mode has been proposed and established. 
+summary:  we report that the direct treatment of BPNs can improve the survival rate of NPCs and enhance the neural differentiation of NPCs. These biological effects of BPNs on NPCs are comprehensively demonstrated and can be primarily attribute to the up-regulation of Nrf2 in NPCs induced by BPNs. In SCI mice, BPNs are demonstrated with enhanced neuroprotection to NPCs. BPNs-treated NPCs effectively reduce glial scar formation and promote axon regeneration, demonstrating a better nerve repair effect. Our proposed biodegradable BPNs-based stem cell therapy provides more informative support for improving the efficacy of stem cell transplantation for nerve damage diseases 
 
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
-#   url: http://example.org
+#   url: http://example.org  - name: PubMed url: https://pubmed.ncbi.nlm.nih.gov/36410110
 links:
   - name: ScienceDirect
-    url: https://www.sciencedirect.com/science/article/pii/S0142961222005567
-  - name: PubMed
-    url: https://pubmed.ncbi.nlm.nih.gov/36410110
-url_pdf: uploads/biomaterials2022.pdf
+    url: https://www.sciencedirect.com/science/article/pii/S1385894723037087
+url_pdf: uploads/cej2023.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: '© 2022 Elsevier Ltd. All rights reserved.'
+  caption: '© 2023 Elsevier Ltd. All rights reserved.'
   focal_point: ''
   preview_only: false
 
@@ -76,9 +73,12 @@ image:
 #   Otherwise, set `slides: ""`.
 ---
 **Highlights**: 
-1. A GSH-triggered, activatable, and cancer-targeting probe is developed based on the rational design of methylene blue. This multifunctional probe can self-assemble into nano-photosensitizer, MBNPs.
-2. In vitro and cellular experiments demonstrate the mechanism and superior therapeutic efficacy/precision of MBNPs.
-3. MBNPs are applied to in vivo cancer PDT experiments, demonstrating good biosafety and remarkable efficacy/precision in tumor ablation.
-4. The “all-in-one” tactic achieves fluorescence/photoacoustic guided cancer phototheranostics with single small molecules.
+• Black phosphorus nanosheets (BPNs) promote differentiation of neural progenitor cells (NPCs)
 
-Supplementary Information can be accessed [here](uploads/biomaterials2022si.pdf).
+• BPNs promote neural differentiation of NPCs via the activation of Nrf2 pathway.
+
+• BPNs promote NPCs neural differentiation by regulating cellular redox homeostasis.
+
+• BPNs-treated NPCs reduce glial scar formation and promote axon regeneration.
+
+Supplementary Information can be accessed [here](uploads/1-s2.0-S1385894723037087-mmc1.pdf).
