@@ -1,35 +1,27 @@
 ---
-title: 'De novo designed self-assembling rhodamine probe for real-time, long-term and quantitative live-cell nanoscopy'
+title: 'Universal strategy to develop fluorogenic probes for kysine deacylase/demethylase activity and application in discriminating demethylation states'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Wenyu Wei
   - Jie Zhang
-  - Heng Shi
+  - Zhiqiang Xu
+  - Zhiyang Liu
   - Chen Huang
-  - Le Mei
-  - Qiang Guo
   - admin
-  - Pingzhou Wu
-  - Dan Su
-  - Qingxin Chen
-  - Shenglong Gan
-  - Cecilia Ka Wing Chan
-  - Jiahai Shi
-  - Jian Lin Chen
-  - Chung Hang Jonathan Choi
-  - Shao Q. Yao
-  - Xian-Kai Chen
-  - Ben Zhong Tang
-  - Jufang He
+  - Lingkuan Meng
+  - Yudai Matsuda
+  - Quan Hao
+  - Huatang Zhang
   - Hongyan Sun
 
-date: '2023-02-06'
-doi: 10.1021/acsnano.2c10467
+date: '2023-01-05'
+doi: 10.1021/acssensors.2c01345
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-02-06T00:00:00Z'
+publishDate: '2023-01-05T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -38,10 +30,10 @@ publishDate: '2023-02-06T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In ***ACS Nano***
-publication_short: In **_ACS Nano_**, 2023, _17_(4), 3632–3644
+publication: In ***ACS Sensor***
+publication_short: In **_ACS Sens._**, 2023, _8_(1), 28–39
 
-abstract: Super-resolution imaging provides a powerful approach to image dynamic biomolecule events at nanoscale resolution. An ingenious method involving tuning intramolecular spirocyclization in rhodamine offers an appealing strategy to design cell-permeable fluorogenic probes for super-resolution imaging. Nevertheless, precise control of rhodamine spirocyclization presents a significant challenge. Through detailed study of the structure–activity relationship, we identified that multiple key factors control rhodamime spirocyclization. The findings provide opportunities to create fluorogenic probes with tailored properties. On the basis of our findings, we constructed self-assembling rhodamine probes for no-wash live-cell confocal and super-resolution imaging. The designed self-assembling probe Rho-2CF3 specifically labeled its target proteins and displayed high ring-opening ability, fast labeling kinetics (<1 min), and large turn-on fold (>80 folds), which is very difficult to be realized by the existing methods. Using the probe, we achieved high-contrast super-resolution imaging of nuclei and mitochondria with a spatial resolution of up to 42 nm. The probe also showed excellent photostability and proved ideal for real-time and long-term tracking of mitochondrial fission and fusion events with high spatiotemporal resolution. Furthermore, Rho-2CF3 could resolve the ultrastructure of mitochondrial cristae and quantify their morphological changes under drug treatment at nanoscale. Our strategy thus demonstrates its usefulness in designing self-assembling probes for super-resolution imaging.
+abstract: Dynamically controlling the post-translational modification of the ε-amino groups of lysine residues is critical for regulating many cellular events. Increasing studies have revealed that many important diseases, including cancer and neurological disorders, are associated with the malfunction of lysine deacylases and demethylases. Developing fluorescent probes that are capable of detecting lysine deacylase and demethylase activity is highly useful for interrogating their roles in epigenetic regulation and diseases. Due to the distinct substrate recognition of these epigenetic eraser enzymes, designing a universal strategy for detecting their activity poses substantial difficulty. Moreover, designing activity-based probes for differentiating their demethylation states is even more challenging and still remains largely unexplored. Herein, we report a universal strategy to construct probes that can detect the enzymatic activity of epigenetic “erasers” through NBD-based long-distance intramolecular reactions. The probes can be easily prepared by installing the O-NBD group at the C-terminal residue of specific peptide substrates by click chemistry. Based on this strategy, detecting the activity of lysine deacetylase, desuccinylase, or demethylase with superior sensitivity and selectivity has been successfully achieved through single-step probe development. Furthermore, the demethylase probe based on this strategy is capable of distinguishing different demethylation states by both absorption and fluorescence lifetime readout. We envision that these newly developed probes will provide powerful tools to facilitate drug discovery in epigenetics in the future.
 
 # Summary. An optional shortened abstract.
 summary:  
@@ -57,10 +49,9 @@ featured: false
 #   url: http://example.org 
 links:
   - name: ACS Publications
-    url: https://pubs.acs.org/doi/10.1021/acsnano.2c10467#
-  - name: PubMed
-    url: https://pubmed.ncbi.nlm.nih.gov/36744992/
-url_pdf: uploads/acsnano.2c10467.pdf
+    url: https://pubs.acs.org/doi/full/10.1021/acssensors.2c01345
+
+url_pdf: uploads/acssensors.2c01345.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -81,4 +72,4 @@ image:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 ---
-Supplementary Information can be accessed [here](https://pubs.acs.org/doi/10.1021/acsnano.2c10467)
+Supplementary Information can be accessed [here](https://pubs.acs.org/doi/10.1021/acssensors.2c01345)
