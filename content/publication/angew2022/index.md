@@ -1,5 +1,5 @@
 ---
-title: 'Developing Isoxazole as a Native Photo-Cross-Linker for Photoaffinity Labeling and Chemoproteomics'
+title: 'Developing isoxazole as a native photo-cross-linker for photoaffinity labeling and chemoproteomics'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
