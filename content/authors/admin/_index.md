@@ -25,9 +25,9 @@ organizations:
 bio: My research interests lie at the surface of chemistry and biology, where I am deeply passionate about applying innovative photochemistry and functional probes to advance fields such as chemoproteomics, nanomedicine, and disease theranostics. My aim is to provide robust methodologies for mapping biological interactomes, accelerating drug development, and expanding therapeutic opportunities.
 
 # Interests to show in About widget
-interests:
-  - Chemical Biology
-  - Medicinal Chemistry
+Research interests:
+  - Chemoproteomics 
+  - Small-Molecule Probe Development
   - Nanomedicine
 
 # Education to show in About widget
