@@ -39,7 +39,7 @@ sections:
         - title: Postdoctoral Researcher
           company: City University of Hong Kong
           company_url: https://www.cityu.edu.hk/
-          company_logo: cityu
+          company_logo: cityu1
           location: Kowloon Tong, Hong Kong
           date_start: '2021-09-01'
           date_end: '2022-09-30'
