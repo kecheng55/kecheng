@@ -27,7 +27,7 @@ bio: My research interests lie at the surface of chemistry and biology, where I 
 # Interests to show in About widget
 interests:
   - Chemoproteomics 
-  - Small-Molecule Probe Development
+  - Chemical Probe Development
   - Nanomedicine
 
 # Education to show in About widget
