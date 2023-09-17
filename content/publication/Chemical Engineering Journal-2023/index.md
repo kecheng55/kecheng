@@ -72,7 +72,8 @@ image:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 ---
-**Highlights**: 
+**Highlights**:
+
 • Black phosphorus nanosheets (BPNs) promote differentiation of neural progenitor cells (NPCs)
 
 • BPNs promote neural differentiation of NPCs via the activation of Nrf2 pathway.
