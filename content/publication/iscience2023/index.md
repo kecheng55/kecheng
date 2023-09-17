@@ -53,7 +53,7 @@ url_pdf: uploads/iscience2023.pdf
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: '© 2023 Elsevier Ltd. All rights reserved.'
+  caption: 'iScience 26, 107757, October 20, 2023.'
   focal_point: ''
   preview_only: false
 
