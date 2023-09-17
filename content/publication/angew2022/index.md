@@ -17,11 +17,11 @@ authors:
   - Nan Ma
   - Hongyan Sun
 
-date: '2017-10-01'
-doi: 10.1002/anie.201709584
+date: '2022-09-23'
+doi: 10.1002/anie.202209947
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2022-09-23T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -31,12 +31,12 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Angewandte Chemie International Edition*
-publication_short: In *Angew. Chem. Int. Ed. 2017, 56 (47), 15044-15048*
+publication_short: In *Angew. Chem. Int. Ed. 2022, 61 (47), e202209947*
 
-abstract: Target-identification phenotypic screening has been a powerful approach in drug discovery; however, it is hindered by difficulties in identifying the underlying cellular targets. To address this challenge, we have combined phenotypic screening of a fully functionalized small-molecule library with competitive affinity-based proteome profiling to map and functionally characterize the targets of screening hits. Using this approach, we identified ANXA2, PDIA3/4, FLAD1, and NOS2 as primary cellular targets of two bioactive molecules that inhibit cancer cell proliferation. We further demonstrated that a panel of probes can label and/or image annexin A2 (a cancer biomarker) from different cancer cell lines, thus providing opportunities for potential cancer diagnosis and therapy.
+abstract: Photoaffinity labeling is a powerful technique to interrogate drug-protein interactions in native cellular environments. Photo-cross-linkers are instrumental for this technique. However, the introduction of unnatural photo-cross-linkers may significantly reduce the bioactivity of the drug, thus impairing the chemoproteomic outcomes. Herein, we developed a common pharmacophore, isoxazole, into a natively embedded photo-cross-linker for chemoproteomics, which minimally perturbs the drug structure. The photo-cross-linking reactions of the isoxazole were thoroughly investigated for the first time. Functionalized isoxazoles were then designed and applied to protein labeling, demonstrating the superior photo-cross-linking efficiency. Subsequently, two isoxazole-based drugs, Danazol and Luminespib, were employed in chemoproteomic studies, revealing their potential cellular targets. These results provide valuable strategies for future chemoproteomic study and drug development.
 
 # Summary. An optional shortened abstract.
-summary: Tetrazole-based probes bearing an alkyne handle are suitable for phenotypic screening and affinity-based proteome profiling, especially Tz6, which can sensitively detect a cancer biomarker by both protein labeling and bioimaging.
+summary: Isoxazole is an essential pharmacophore in drug discovery. In this study, we investigated the photochemistry of isoxazole with biomolecules and developed it as a natively embedded photo-cross-linker for chemoproteomics and drug discovery. With this strategy, two isoxazole-containing drugs were successfully applied to chemoproteomic platforms to uncover their cellular targets and interactions.
 
 tags: []
 
@@ -49,15 +49,15 @@ featured: true
 #   url: http://example.org
 links:
   - name: Wiley Online Library
-    url: https://onlinelibrary.wiley.com/doi/abs/10.1002/ange.201709584
+    url: https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202209947
   - name: PubMed
-    url: https://pubmed.ncbi.nlm.nih.gov/28967196
-url_pdf: uploads/Angew2017.pdf
+    url: https://pubmed.ncbi.nlm.nih.gov/36151600
+url_pdf: uploads/Angew2022.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: '© 2017 Wiley-VCH Verlag GmbH & Co. KGaA, Weinheim'
+  caption: '© 2022 Wiley-VCH GmbH'
   focal_point: ''
   preview_only: false
 
@@ -74,9 +74,11 @@ image:
 #   Otherwise, set `slides: ""`.
 ---
 **Highlights**: 
-1. The photo-cross-linking of tetrazole is investigated for photoaffinity labeling.
-2. Functionalized tetrazole probes are designed, synthesized, and applied to phenotypic screening for bioactive hits against cancer proliferation.
-3. The primary cellular targets of the screening hits are validated by chemoproteomics.
-4. Tetrazole probes are found with specific labeling towards endogenous Annexin A2.
+1. The photo-cross-linking of isoxazole towards biomolecules is thoroughly investigated first.
+2. Functionalized isoxazole probes are designed for protein labeling, demonstrating superior photo-cross-linking efficiency.
+3. Isoxazole-based drugs, Danazol and Luminespib, are employed in chemoproteomic studies, revealing their potential cellular targets.
+4. The probe derived from Luminespib (isx10) demonstrates superior specificity in labeling and imaging Hsp90.
+5. Luminespib is investigated for covalent inhibition towards Hsp90 under UV irradiation.
 
-Supplementary Information can be downloaded [here](uploads/anie201709584-sup-0001-misc_information.pdf).
+
+Supplementary Information can be downloaded [here](uploads/anie202209947-sup-0001-misc_information.pdf).
