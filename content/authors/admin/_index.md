@@ -56,7 +56,7 @@ social:
     link: https://twitter.com/kecheng55
     label: Follow me on Twitter
     display:
-      header: true
+      header: false
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?&user=wvnvmnmaaaj
