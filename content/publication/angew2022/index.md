@@ -5,7 +5,7 @@ title: 'Developing Isoxazole as a Native Photo-Cross-Linker for Photoaffinity La
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - **Ke Cheng**
+  - admin
   - Junyang Qi
   - Xiaojie Ren
   - Jie Zhang
