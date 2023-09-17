@@ -31,7 +31,7 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: In ***Angewandte Chemie International Edition***
-publication_short: In ***Angew. Chem. Int. Ed.** 2022, 61 (47), e202209947*
+publication_short: In **_Angew. Chem. Int. Ed._** **2022**, _61_ (47), e202209947
 
 abstract: Photoaffinity labeling is a powerful technique to interrogate drug-protein interactions in native cellular environments. Photo-cross-linkers are instrumental for this technique. However, the introduction of unnatural photo-cross-linkers may significantly reduce the bioactivity of the drug, thus impairing the chemoproteomic outcomes. Herein, we developed a common pharmacophore, isoxazole, into a natively embedded photo-cross-linker for chemoproteomics, which minimally perturbs the drug structure. The photo-cross-linking reactions of the isoxazole were thoroughly investigated for the first time. Functionalized isoxazoles were then designed and applied to protein labeling, demonstrating the superior photo-cross-linking efficiency. Subsequently, two isoxazole-based drugs, Danazol and Luminespib, were employed in chemoproteomic studies, revealing their potential cellular targets. These results provide valuable strategies for future chemoproteomic study and drug development.
 
