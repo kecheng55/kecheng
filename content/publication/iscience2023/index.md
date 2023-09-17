@@ -1,28 +1,23 @@
 ---
-title: 'Black phosphorus nanosheets enhance differentiation of neural progenitor cells for improved treatment in spinal cord injury'
+title: 'Identification of SIRT3 as an eraser of H4K16la'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Fumei He
+  - Zhuming Fan
+  - Zhiyang Liu
+  - Nan Zhang
+  - Wenyu Wei
   - admin
-  - Junyang Qi
-  - Fangjie He
-  - Chengjun Chu
-  - Yue Xiong
-  - Jingxin Zhao
-  - JiaQi Ding
-  - FanShu Kong
-  - ZiMeng Cao
-  - Gan Liu
-  - Wenbin Deng
+  - Hongyan Sun
+  - Quan Hao1
 
-date: '2023-09-15'
-doi: 10.1016/j.cej.2023.144977
+date: '2023-08-28'
+doi: 10.1016/j.isci.2023.107757
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-09-15T00:00:00Z'
+publishDate: '2023-08-28T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -31,13 +26,13 @@ publishDate: '2023-09-15T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In ***Chemical Engineering Journal***
-publication_short: In **_J. Chem. Eng._**, 2023, _472_, 144977
+publication: In ***iScience***
+publication_short: In **_iScience_**, 2023, _26_(10), 107757
 
-abstract: Stem cell transplantation holds great potential as a treatment option for nerve damage diseases. However, the therapeutic effects are significantly impeded by low survival rate and uncontrolled differentiation of stem cells. In this study, black phosphorus nanosheets (BPNs), which are biodegradable inorganic nanomaterials, are first revealed with remarkable abilities to regulate cellular redox homeostasis, enhance transplant survival rate of stem cells, and facilitate neural differentiation of neural progenitor cells (NPCs). These effects of BPNs are proved to be associated with the activation of nuclear factor erythroid 2-like 2 (Nrf2) pathways in NPCs. In vivo, BPNs-treated NPCs could effectively inhibit inflammatory response and neuronal apoptosis in the mice with spinal cord injury (SCI). In addition, BPNs-treated NPCs more effectively reduce glial scar formation and promote axon regeneration compared with natural NPCs in SCI site. These findings collectively support the therapeutic potentials of BPNs for advanced stem cell transplantation and neural tissue engineering in the future.
+abstract: Lysine lactylation (Kla) is a novel histone post-translational modification discovered in late 2019. Later, HDAC1-3, were identified as the robust Kla erasers. While the Sirtuin family proteins showed weak eraser activities toward Kla, as reported. However, the catalytic mechanisms and physiological functions of HDACs and Sirtuins are not identical. In this study, we observed that SIRT3 exhibits a higher eraser activity against the H4K16la site than the other human Sirtuins. Crystal structures revealed the detailed binding mechanisms between lactyl-lysine peptides and SIRT3. Furthermore, a chemical probe, p-H4K16laAlk, was developed to capture potential Kla erasers from cell lysates. SIRT3 was captured by this probe and detected via proteomic analysis. And another chemical probe, p-H4K16la-NBD, was developed to detect the eraser-Kla delactylation processes directly via fluorescence indication. Our findings and chemical probes provide new directions for further investigating Kla and its roles in gene transcription regulation.
 
 # Summary. An optional shortened abstract.
-summary:  we report that the direct treatment of BPNs can improve the survival rate of NPCs and enhance the neural differentiation of NPCs. These biological effects of BPNs on NPCs are comprehensively demonstrated and can be primarily attribute to the up-regulation of Nrf2 in NPCs induced by BPNs. In SCI mice, BPNs are demonstrated with enhanced neuroprotection to NPCs. BPNs-treated NPCs effectively reduce glial scar formation and promote axon regeneration, demonstrating a better nerve repair effect. Our proposed biodegradable BPNs-based stem cell therapy provides more informative support for improving the efficacy of stem cell transplantation for nerve damage diseases 
+summary:  
 
 tags: []
 
@@ -47,11 +42,13 @@ featured: false
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
-#   url: http://example.org  - name: PubMed url: https://pubmed.ncbi.nlm.nih.gov/36410110
+#   url: http://example.org 
 links:
-  - name: ScienceDirect
-    url: https://www.sciencedirect.com/science/article/pii/S1385894723037087
-url_pdf: uploads/cej2023.pdf
+  - name: CellPress
+    url: https://doi.org/10.1016/j.isci.2023.107757
+  - name: PubMed
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10504495/
+url_pdf: uploads/iscience2023.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -74,12 +71,7 @@ image:
 ---
 **Highlights**:
 
-• Black phosphorus nanosheets (BPNs) promote differentiation of neural progenitor cells (NPCs)
-
-• BPNs promote neural differentiation of NPCs via the activation of Nrf2 pathway.
-
-• BPNs promote NPCs neural differentiation by regulating cellular redox homeostasis.
-
-• BPNs-treated NPCs reduce glial scar formation and promote axon regeneration.
-
-Supplementary Information can be accessed [here](uploads/1-s2.0-S1385894723037087-mmc1.pdf).
+• SIRT3 shows a preference for delactylating H4K16 site compared to other Sirtuins
+• Crystal structures revealed the binding details between lactyl-motif and SIRT3
+• The probe with clickable photo-cross-linker captured SIRT3 from cell lysates
+• The fluorogenic probe can be used to monitor the delactylation processes directly
