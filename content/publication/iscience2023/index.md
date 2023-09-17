@@ -72,6 +72,10 @@ image:
 **Highlights**:
 
 • SIRT3 shows a preference for delactylating H4K16 site compared to other Sirtuins
+
 • Crystal structures revealed the binding details between lactyl-motif and SIRT3
+
 • The probe with clickable photo-cross-linker captured SIRT3 from cell lysates
+
 • The fluorogenic probe can be used to monitor the delactylation processes directly
+
