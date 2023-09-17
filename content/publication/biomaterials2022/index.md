@@ -1,5 +1,5 @@
 ---
-title: 'Developing Isoxazole as a Native Photo-Cross-Linker for Photoaffinity Labeling and Chemoproteomics'
+title: 'Self-assembled nano-photosensitizer for targeted, activatable, and biosafe cancer phototheranostics'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -7,21 +7,23 @@ title: 'Developing Isoxazole as a Native Photo-Cross-Linker for Photoaffinity La
 authors:
   - admin
   - Junyang Qi
-  - Xiaojie Ren
   - Jie Zhang
   - Huangxu Li
-  - Hanyue Xiao
-  - Rui Wang
-  - Zhiyang Liu
+  - Xiaojie Ren
+  - Wenyu Wei
   - Lingkuan Meng
-  - Nan Ma
+  - Jing Li
+  - Qianqian Li
+  - Huatang Zhang
+  - Wenbin Deng
   - Hongyan Sun
+  - Lin Mei
 
-date: '2022-09-23'
-doi: 10.1002/anie.202209947
+date: '2022-11-15'
+doi: 10.1016/j.biomaterials.2022.121916
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-09-23T00:00:00Z'
+publishDate: '2022-11-15T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -30,13 +32,13 @@ publishDate: '2022-09-23T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In ***Angewandte Chemie International Edition***
-publication_short: In ***Angew. Chem. Int. Ed.** 2022, 61 (47), e202209947*
+publication: In ***Biomaterials***
+publication_short: In **Biomaterials** **2022**, _291_, 121916
 
-abstract: Photoaffinity labeling is a powerful technique to interrogate drug-protein interactions in native cellular environments. Photo-cross-linkers are instrumental for this technique. However, the introduction of unnatural photo-cross-linkers may significantly reduce the bioactivity of the drug, thus impairing the chemoproteomic outcomes. Herein, we developed a common pharmacophore, isoxazole, into a natively embedded photo-cross-linker for chemoproteomics, which minimally perturbs the drug structure. The photo-cross-linking reactions of the isoxazole were thoroughly investigated for the first time. Functionalized isoxazoles were then designed and applied to protein labeling, demonstrating the superior photo-cross-linking efficiency. Subsequently, two isoxazole-based drugs, Danazol and Luminespib, were employed in chemoproteomic studies, revealing their potential cellular targets. These results provide valuable strategies for future chemoproteomic study and drug development.
+abstract: Cancer treatment currently still faces crucial challenges in therapeutic effectiveness, precision, and complexity. Photodynamic therapy (PDT) as a non-invasive tactic has earned widespread popularity for its excellent therapeutic output, flexibility, and restrained toxicity. Nonetheless, drawbacks, including low efficiency, poor cancer specificity, and limited therapeutic depth, remain considerable during the cancer treatment. Although great effort has been made to improve the performance, the overall efficiency and biosafety are still ambiguous and unable to meet urgent clinical needs. Herein, this study integrates merits from previous PDT strategies and develops a cancer-targeting, activatable, biosafe photosensitizer. Owing to excellent self-assembly ability, this photosensitizer can be conveniently prepared as multifunctional nano-photosensitizers, namely MBNPs, and applied to in vivo cancer phototheranostics in “all-in-one” mode. This study successfully verifies the mechanism of MBNPs, then deploys them to cell-based and in vivo cancer PDT. Based on the unique cancer microenvironment, MBNPs achieve precise distribution, accumulation, and activation towards the tumor, releasing methylene blue as a potent photosensitizer for phototherapy. The PDT outcome demonstrates MBNPs’ superior cancer specificity, remarkable PDT efficacy, and negligible toxicity. Meanwhile, in vivo NIR fluorescence and photoacoustic imaging have been utilized to guide the PDT treatment synergistically. Additionally, the biosafety of the MBNPs-based PDT treatment is ensured, thus providing potential for future clinical studies.
 
 # Summary. An optional shortened abstract.
-summary: Isoxazole is an essential pharmacophore in drug discovery. In this study, we investigated the photochemistry of isoxazole with biomolecules and developed it as a natively embedded photo-cross-linker for chemoproteomics and drug discovery. With this strategy, two isoxazole-containing drugs were successfully applied to chemoproteomic platforms to uncover their cellular targets and interactions.
+summary:  We have developed a GSH-triggered, activatable, and cancer-targeting probe, MBP, based on our rational design of a small NIRF photosensitizer, methylene blue. This multifunctional probe can self-assemble and present as nano-photosensitizer, MBNPs. Hence, an “all-in-one” cancer phototheranostic strategy with multiple cancer-targeting abilities and upgraded PDT mode has been proposed and established. 
 
 tags: []
 
@@ -48,16 +50,16 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 links:
-  - name: Wiley Online Library
-    url: https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202209947
+  - name: ScienceDirect
+    url: https://www.sciencedirect.com/science/article/pii/S0142961222005567
   - name: PubMed
-    url: https://pubmed.ncbi.nlm.nih.gov/36151600
-url_pdf: uploads/Angew2022.pdf
+    url: https://pubmed.ncbi.nlm.nih.gov/36410110
+url_pdf: uploads/biomaterials2022.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: '© 2022 Wiley-VCH GmbH'
+  caption: '© 2022 Elsevier Ltd. All rights reserved.'
   focal_point: ''
   preview_only: false
 
@@ -74,11 +76,9 @@ image:
 #   Otherwise, set `slides: ""`.
 ---
 **Highlights**: 
-1. The photo-cross-linking of isoxazole towards biomolecules is thoroughly investigated first.
-2. Functionalized isoxazole probes are designed for protein labeling, demonstrating superior photo-cross-linking efficiency.
-3. Isoxazole-based drugs, Danazol and Luminespib, are employed in chemoproteomic studies, revealing their potential cellular targets.
-4. The probe derived from Luminespib (isx10) demonstrates superior specificity in labeling and imaging Hsp90.
-5. Luminespib is investigated for covalent inhibition towards Hsp90 under UV irradiation.
+1. A GSH-triggered, activatable, and cancer-targeting probe is developed based on the rational design of methylene blue. This multifunctional probe can self-assemble into nano-photosensitizer, MBNPs.
+2. In vitro and cellular experiments demonstrate the mechanism and superior therapeutic efficacy/precision of MBNPs.
+3. MBNPs are applied to in vivo cancer PDT experiments, demonstrating good biosafety and remarkable efficacy/precision in tumor ablation.
+4. The “all-in-one” tactic achieves fluorescence/photoacoustic guided cancer phototheranostics with single small molecules.
 
-
-Supplementary Information can be accessed [here](uploads/anie202209947-sup-0001-misc_information.pdf).
+Supplementary Information can be accessed [here](uploads/biomaterials2022si.pdf).
