@@ -19,7 +19,7 @@ authors:
   - Wenbin Deng
 
 date: '2023-09-15'
-doi: 10.1016/j.cej.2023.1449776
+doi: 10.1016/j.cej.2023.144977
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-09-15T00:00:00Z'
