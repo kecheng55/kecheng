@@ -1,16 +1,21 @@
 ---
-title: 'Tetrazole-Based Probes for Integrated Phenotypic Screening, Affinity-Based Proteome Profiling, and Sensitive Detection of a Cancer Biomarker'
+title: 'Developing Isoxazole as a Native Photo-Cross-Linker for Photoaffinity Labeling and Chemoproteomics'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Jun-Seok Lee
-  - Piliang Hao
-  - Shao Q. Yao
-  - Ke Ding
-  - Zhengqiu Li
+  - Junyang Qi
+  - Xiaojie Ren
+  - Jie Zhang
+  - Huangxu Li
+  - Hanyue Xiao
+  - Rui Wang
+  - Zhiyang Liu
+  - Lingkuan Meng
+  - Nan Ma
+  - Hongyan Sun
 
 date: '2017-10-01'
 doi: 10.1002/anie.201709584
