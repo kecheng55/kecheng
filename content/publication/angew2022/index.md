@@ -81,4 +81,4 @@ image:
 5. Luminespib is investigated for covalent inhibition towards Hsp90 under UV irradiation.
 
 
-Supplementary Information can be downloaded [here](uploads/anie202209947-sup-0001-misc_information.pdf).
+Supplementary Information can be accessed [here](uploads/anie202209947-sup-0001-misc_information.pdf).
