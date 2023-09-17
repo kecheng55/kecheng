@@ -26,7 +26,7 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: In ***Angewandte Chemie International Edition***
-publication_short: In **_Angew. Chem. Int. Ed._** **2017**, _56_(47), 15044-15048
+publication_short: In **_Angew. Chem. Int. Ed._**, 2017, _56_(47), 15044-15048
 
 abstract: Target-identification phenotypic screening has been a powerful approach in drug discovery; however, it is hindered by difficulties in identifying the underlying cellular targets. To address this challenge, we have combined phenotypic screening of a fully functionalized small-molecule library with competitive affinity-based proteome profiling to map and functionally characterize the targets of screening hits. Using this approach, we identified ANXA2, PDIA3/4, FLAD1, and NOS2 as primary cellular targets of two bioactive molecules that inhibit cancer cell proliferation. We further demonstrated that a panel of probes can label and/or image annexin A2 (a cancer biomarker) from different cancer cell lines, thus providing opportunities for potential cancer diagnosis and therapy.
 
