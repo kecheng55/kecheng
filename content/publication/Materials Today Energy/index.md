@@ -31,8 +31,8 @@ publishDate: '2021-09-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In **_Computational and Structural Biotechnology Journal_**
-publication_short: In **_Comput. Struct. Biotechnol. J._**, 2022, _20_, 3522‑3532
+publication: In **_Materials Today Energy_**
+publication_short: In **_Mater. Today Energy_**, 2021, _21_, 100754
 
 abstract: The concept of symmetric full battery attracts increasing attention in recent years. The symmetric battery consists of two identical ‘bifunctional’ electrode materials, which can be used as both the cathode and anode. The NASICON-structured Na3MnTi(PO4)3 is capable to be used as a bifunctional electrode for symmetric sodium-ion full battery because of its multiredox reaction with a suitable voltage gap. However, it suffers from limited capacity and poor rate performance. In this study, Na3MnTi(PO4)3 particulates embedding in the N-doped carbon matrix material (NMTP/C–N) are constructed. Both the experiments and density functional theory (DFT) calculations show that the N-defects in the carbon matrix have stronger adsorption energy toward Na+, and the N-vacancy defects have lower diffusion barriers for sodium-ion diffusion, thus enabling higher pseudocapacitance of the NMTP/C–N. By virtue of the enhanced reaction kinetics and pseudocapacitance, the NMTP/C–N demonstrates improved specific capacity and high-rate capability in both high- and low-voltage ranges (2.5–4.2 V vs. Na/Na+; 1.5–2.5 V vs. Na/Na+), where it is operated as the cathode and anode basing on the redox of Mn2+/Mn4+ and Ti4+/Ti3+, respectively. When constructed to a symmetric full battery, it exhibits a moderate reversible capacity of 91.8 mAh/g with a high initial Columbic efficiency of 85.2%, and maintains 70.8% of discharge capacity after 400 cycles at 1C. This work deepens our understanding of materials design for enhanced pseudocapacitance and electrochemical performances.
 
@@ -54,7 +54,7 @@ url_pdf: uploads/1-s2.0-S2468606921001192-main.pdf
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: '© 2022 Elsevier Ltd. All rights reserved.'
+  caption: '© 2021 Elsevier Ltd. All rights reserved.'
   focal_point: ''
   preview_only: false
 
