@@ -27,7 +27,7 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: In ***iScience***
-publication_short: In **_iScience_**, 2023, _26_(10), 107757
+publication_short: In **_iScience_** 2023, _26_, 107757
 
 abstract: Lysine lactylation (Kla) is a novel histone post-translational modification discovered in late 2019. Later, HDAC1-3, were identified as the robust Kla erasers. While the Sirtuin family proteins showed weak eraser activities toward Kla, as reported. However, the catalytic mechanisms and physiological functions of HDACs and Sirtuins are not identical. In this study, we observed that SIRT3 exhibits a higher eraser activity against the H4K16la site than the other human Sirtuins. Crystal structures revealed the detailed binding mechanisms between lactyl-lysine peptides and SIRT3. Furthermore, a chemical probe, p-H4K16laAlk, was developed to capture potential Kla erasers from cell lysates. SIRT3 was captured by this probe and detected via proteomic analysis. And another chemical probe, p-H4K16la-NBD, was developed to detect the eraser-Kla delactylation processes directly via fluorescence indication. Our findings and chemical probes provide new directions for further investigating Kla and its roles in gene transcription regulation.
 
