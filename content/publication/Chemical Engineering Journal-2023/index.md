@@ -32,7 +32,7 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: In ***Chemical Engineering Journal***
-publication_short: In **_J. Chem. Eng._**, 2023, _472_, 144977
+publication_short: In **_J. Chem. Eng._** 2023, _472_, 144977
 
 abstract: Stem cell transplantation holds great potential as a treatment option for nerve damage diseases. However, the therapeutic effects are significantly impeded by low survival rate and uncontrolled differentiation of stem cells. In this study, black phosphorus nanosheets (BPNs), which are biodegradable inorganic nanomaterials, are first revealed with remarkable abilities to regulate cellular redox homeostasis, enhance transplant survival rate of stem cells, and facilitate neural differentiation of neural progenitor cells (NPCs). These effects of BPNs are proved to be associated with the activation of nuclear factor erythroid 2-like 2 (Nrf2) pathways in NPCs. In vivo, BPNs-treated NPCs could effectively inhibit inflammatory response and neuronal apoptosis in the mice with spinal cord injury (SCI). In addition, BPNs-treated NPCs more effectively reduce glial scar formation and promote axon regeneration compared with natural NPCs in SCI site. These findings collectively support the therapeutic potentials of BPNs for advanced stem cell transplantation and neural tissue engineering in the future.
 
