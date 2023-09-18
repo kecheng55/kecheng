@@ -36,7 +36,7 @@ summary: Tetrazole-based probes bearing an alkyne handle are suitable for phenot
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
