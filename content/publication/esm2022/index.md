@@ -10,7 +10,7 @@ authors:
   - Ming Xu
   - Jun Guo
   - Kuo Yuan
-  - amin
+  - admin
   - Yangyang Xie
   - Liuyun Zhang
   - Jingqiang Zheng
