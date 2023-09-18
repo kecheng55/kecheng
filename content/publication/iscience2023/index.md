@@ -11,7 +11,7 @@ authors:
   - Wenyu Wei
   - admin
   - Hongyan Sun
-  - Quan Hao1
+  - Quan Hao
 
 date: '2023-08-28'
 doi: 10.1016/j.isci.2023.107757
