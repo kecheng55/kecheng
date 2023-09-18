@@ -1,5 +1,5 @@
 ---
-title: 'Robust artificial interphases constructed by a versatile protein-based binder for high-voltage Na-Ion battery cathodes'
+title: 'Robust artificial interphases constructed by a versatile protein-based binder for high-voltage Na-ion battery cathodes'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
