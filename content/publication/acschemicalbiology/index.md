@@ -30,7 +30,7 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: In **_ACS Chemical Biology_**
-publication_short: In **_ACS Chem. Biol. _** 2019, _14_, 2546–2552
+publication_short: In **_ACS Chem. Biol._** 2019, _14_, 2546–2552
 
 abstract: Affinity-based protein profiling has proven to be a powerful method in target identification of bioactive molecules. Here, this technology was applied in two photoreactive anticancer inhibitors, arenobufagin and HM30181. Using UV irradiation, these photoreactive reagents can covalently cross-link to target proteins, leading to a covalent binding with target proteins. Moreover, the cellular on/off targets of these two molecules, including ATP1A1, MDR1, PARP1, DDX5, NOP2, RAB6A, and ERGIC1 were first identified by affinity-based protein profiling and bioimaging approaches. The protein hit, PARP1, was further validated to be involved in the function of the anticancer effects.
 # Summary
