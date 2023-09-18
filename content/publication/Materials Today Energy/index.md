@@ -22,7 +22,7 @@ date: '2022-06-30'
 doi: 10.1016/j.mtener.2021.100754
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-06-30T00:00:00Z'
+publishDate: '2022-06-30T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
