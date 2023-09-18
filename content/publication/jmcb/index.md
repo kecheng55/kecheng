@@ -32,7 +32,7 @@ publication_types: ['2']
 publication: In **_Journal of Materials Chemistry B_**
 publication_short: In **_J. Mater. Chem. B_** 2019, _7_, 5125-5131
 
-abstract: 
+abstract: An ultra-sensitive and ratiometric fluorescent probe for hypochlorous acid (HOCl) detection based on the mechanism of aggregation induced emission (AIE) and through-bond energy transfer (TBET) has been reported herein. By exploiting the advantages of AIE and TBET, which eliminates emission leakage from dark donors, the probe exhibits ultra-high sensitivity towards HOCl by an enhancement of over 7000-fold in the fluorescence ratio (I589 nm/I477 nm), which is one of the highest recorded so far. The reaction mechanism has been discussed in detail, and the effects of interferents and the reaction kinetics have also been investigated. Lastly, the successful result of exogenous/endogenous HOCl imaging detection in different cell lines indicates the potential use of the probe in living systems.
 # Summary
 tags: []
 
