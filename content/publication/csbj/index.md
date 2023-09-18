@@ -30,7 +30,7 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: In **_Computational and Structural Biotechnology Journal_**
-publication_short: In **_Comput. Struct. Biotechnol. J._**, 2022, _20_, 3522‑3532
+publication_short: In **_Comput. Struct. Biotechnol. J._** 2022, _20_, 3522‑3532
 
 abstract: Post-translational modifications (PTMs) are closely linked to numerous diseases, playing a significant role in regulating protein structures, activities, and functions. Therefore, the identification of PTMs is crucial for understanding the mechanisms of cell biology and diseases therapy. Compared to traditional machine learning methods, the deep learning approaches for PTM prediction provide accurate and rapid screening, guiding the downstream wet experiments to leverage the screened information for focused studies. In this paper, we reviewed the recent works in deep learning to identify phosphorylation, acetylation, ubiquitination, and other PTM types. In addition, we summarized PTM databases and discussed future directions with critical insights.
 
