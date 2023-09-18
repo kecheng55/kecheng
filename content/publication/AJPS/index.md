@@ -16,7 +16,7 @@ authors:
   - Wenbin Deng
 
 date: '2021-03-01'
-doi: 10.1016/j.mtener.2021.100754
+doi: 10.1016/j.ajps.2020.09.001
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2021-03-01T00:00:00Z'
