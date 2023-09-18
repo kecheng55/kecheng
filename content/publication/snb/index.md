@@ -8,7 +8,7 @@ authors:
   - Guansheng Zheng
   - Zejun Li
   - Qinya Duan
-  - Ke Cheng
+  - admin
   - Yong He
   - Shumei Huang
   - Huatang Zhang
@@ -29,7 +29,7 @@ publishDate: '2020-05-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In **_Sensors and Actuators B: Chemical_**
+publication: In **_Sensors and Actuators B Chemical_**
 publication_short: In **_Sens. Actuators B Chem._** 2020, _310_, 127890
 
 abstract: We report herein fluorescent probes equipped with dual-quenching groups exhibiting superior sensitivity than probes with mono-quenching groups. Importantly, with this strategy, the probe with dual-quenching groups react with HOCl through two distinct reaction mechanisms, which reduce the plausible side reactions with other competing analytes and enhance the probe’s selectivity. As a proof-of-concept study, we designed and synthesized a probe with dual-quenching groups DQ-HOCl to detect HOCl, which is one of the most important ROS and linked with a number of diseases. In addition, two control probes with mono-quenching groups, MQ-HOCl-1 and MQ-HOCl-2, were also synthesized for comparison purpose. Fluorescent assays demonstrated that DQ-HOCl indeed shows ultra-high sensitivity and selectivity compared with probes with mono-quenching groups. Furthermore, the probe has been successfully utilized to imaging exogenous/endogenous HOCl in living cells. Moreover, DQ-HOCl was applied to visualize HOCl in kidney tissues from rat due to the increased penetration depth and lower tissue autofluorescence from the nature of two-photon probes.
