@@ -31,7 +31,7 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: In ***Energy Storage Materials***
-publication_short: In **_Energy Storage Mater._**, 2022, _47_, 526‑533
+publication_short: In **_Energy Storage Mater._** 2022, _47_, 526‑533
 
 abstract: Recently, there has been a drive to design and develop mixed polyanion compounds for positive electrode applications in sodium-ion batteries (SIBs) due to their high-valent redox, robust electrode framework and good safety. Although advances have been made, the exploration of new electrode materials and fundamental understanding of working mechanisms have been lacking. Here, we report a low-temperature synthesis of an organic/inorganic anions coupled Na2(VO)2(HPO4)2(C2O4) polyanionic compound (noted as NVPC), which exhibits a distinctive layered structure. The structure is able to stabilize reversible high-valent redox of V4+/5+, thereby the NVPC shows a moderate reversible capacity of 105 mA h g−1 at 0.1 C and a high redox potential around 4.00/3.80 V vs. Na/Na+, which is larger than the NaVOPO4. The enhanced Na+ diffusion capability and reduced band gap in NVPC is experimentally demonstrated by galvanostatic intermittent titration technique and theoretically validated by calculations. Besides, a small volume change (1.36%) of NVPC electrode during intercalation reaction is unambiguously demonstrated by diffraction and nanoscale structural analysis. Generally, our studies highlight that coupling organic/inorganic anions in polyanionic compounds is a practical strategy to stabilize high-valent redox center for developing high energy density SIB cathode materials.
 # Summary. An optional shortened abstract.
