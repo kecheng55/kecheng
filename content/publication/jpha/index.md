@@ -29,9 +29,9 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: In **_Journal of Pharmaceutical Analysis_**
-publication_short: In **_J. Pharm. Anal._**, 2020, _10_, 490‑497
+publication_short: In **_J. Pharm. Anal._** 2020, _10_, 490‑497
 
-abstract: 
+abstract: Hydrogen peroxide (H2O2) plays a significant role in regulating a variety of biological processes. Dysregulation of H2O2 can lead to various diseases. Although numerous fluorescent imaging probes for H2O2 have been reported, the development of H2O2 ratiometric fluorescent probe with large Stokes shift remains rather limited. Such probes have shown distinct advantages, such as minimized interference from environment and improved signal-to noise ratio. In this work, we reported a new pyrene-based compound Py-VPB as H2O2 fluorescent probe in vitro. The probe demonstrated ratiometric detection behavior, large Stokes shift and large emission shift. In addition, the probe showed high sensitivity and selectivity towards H2O2 in vitro. Based on these excellent properties, we successfully applied Py-VPB to the visualization of exogenous and endogenous H2O2 in living cells. Cell imaging study also showed that our probe was localized in the mitochondria. We envision that the probe can provide a useful tool for unmasking the biological roles of mitochondrial H2O2 in living systems.
 # Summary
 tags: []
 
