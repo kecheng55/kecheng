@@ -1,5 +1,5 @@
 ---
-title: 'Controllable Cleavage of C–N Bond-Based Fluorescent and Photoacoustic Dual-Modal Probes for the Detection of H2S in Living Mice'
+title: 'Controllable cleavage of C–N bond-based fluorescent and photoacoustic dual-modal probes for the detection of H2S in living mice'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
