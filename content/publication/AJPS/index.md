@@ -29,7 +29,7 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: In **_Asian Journal of Pharmaceutical Sciences_**
-publication_short: In **_Asian J. Pharm. Sci._**, 2021, _16_(2), 222‑235.
+publication_short: In **_Asian J. Pharm. Sci._**, 2021, _16_(2), 222‑235
 
 abstract: Black phosphorus (BP) nano-materials, especially BP quantum dots (BPQDs), performs outstanding photothermal antitumor effects, excellent biocompatibility and biodegradability. However, there are several challenges to overcome before offering real benefits, such as poor stability, poor dispersibility as well as difficulty in tailoring other functions. Here, a “three-in-one” mitochondria-targeted BP nano-platform, called as BPQD-PEG-TPP, was designed. In this nano-platform, BPQDs were covalently grafted with a heterobifunctional PEG, in which one end was an aryl diazo group capable of reacting with BPQDs to form a covalent bond and the other end was a mitochondria-targeted triphenylphosphine (TPP) group. In addition to its excellent near-infrared photothermal properties, BPQD-PEG-TPP had much enhanced stability and dispersibility under physiological conditions, efficient mitochondria targeting and promoted ROS production through a photothermal effect. Both in vitro and in vivo experiments demonstrated that BPQD-PEG-TPP performed much superior photothermal cytotoxicity than BPQDs and BPQD-PEG as the mitochondria targeted PTT. Thus this “three-in-one” nanoplatform fabricated through polymer grafting, with excellent stability, dispersibility and negligible side effects, might be a promising strategy for mitochondria-targeted photothermal cancer therapy.
 # Summary
