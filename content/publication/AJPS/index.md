@@ -7,7 +7,7 @@ title: 'Heterobifunctional PEG-grafted black phosphorus quantum dots: “Three-i
 authors:
   - Junyang Qi
   - Yue Xiong
-  - Ke Cheng
+  - admin
   - Qi Huang
   - Jingxiu Cao
   - Fumei He
