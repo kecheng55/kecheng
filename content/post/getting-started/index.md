@@ -39,6 +39,10 @@ categories:
 
 ---
 
+```python
+import libr
+print('hello')
+```
 
 ## Introduction
 
