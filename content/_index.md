@@ -121,12 +121,12 @@ sections:
       email: ke.cheng@my.cityu.edu.hk
       phone:  +1 267 999-9182
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        street: No.66 Gongchang Rd
+        city: Shenzhen
+        region: Guangdong
+        postcode: '518107'
+        country: China
+        country_code: CN
       contact_links:
         - icon: twitter
           icon_pack: fab
