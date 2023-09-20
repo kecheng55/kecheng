@@ -110,24 +110,4 @@ sections:
         {{< gallery album="demo" >}}
     design:
       columns: '1'
-  - block: contact
-    id: contact
-    content:
-      title: Contact
-      subtitle: ''
-    text: |-
-      # Contact (add or remove contact options as necessary)
-    email: ke.cheng@my.cityu.edu.hk
-    phone: +1 267 999-9182
-    address:
-        street: 66 Gongchang Rd
-        city: Shenzhen
-        region: Guangdong
-        postcode: '518107'
-        country: China
-        country_code: CN
-      # Automatically link email and phone or display as text?
-      autolink: true
-    design:
-      columns: '2'
     ---
