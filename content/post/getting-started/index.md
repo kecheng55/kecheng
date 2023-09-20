@@ -44,13 +44,6 @@ categories:
 
 Welcome to my personal research website! I am thrilled to share with you my passion for scientific exploration and discovery. Here, you will find a window into the world of research that has fueled my curiosity and led me on a journey to unravel the mysteries of the universe.
 
-
-Closing Remarks:
-Thank you for visiting my research website and taking the time to explore my scientific journey. I am excited to continue pushing the boundaries of what we know and uncovering the mysteries that lie ahead. Together, we can embark on an exhilarating voyage of exploration and innovation. Stay curious!
-
-
-[![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png)](https://wowchemy.com)
-
 ## About Me:
 
 I am a committed researcher with a background encompassing chemical biology, medicinal chemistry, and nanomedicine. My odyssey in the world of science commenced with the development of tetrazole-based drugs via chemoproteomics. Since then, I have been on an unwavering mission to expand the horizons of human understanding, conducting one experiment at a time.
