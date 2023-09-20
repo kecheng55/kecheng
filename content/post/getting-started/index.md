@@ -1,9 +1,9 @@
 ---
-title: Welcome to ChengResearch, Exploring the Frontiers of Scientific Discovery
+title: Exploring the Frontiers of Scientific Discovery
 subtitle: 
 
 # Summary for listings and search engines
-summary: Welcome to my personal research website!
+summary: Welcome to ChengResearch, my personal research website!
 
 # Link this post with a project
 projects: []
@@ -49,15 +49,15 @@ categories:
 
 ## Research Interests
 
-<p style='text-align: justify;'> My research interests are broad, spanning the domains of chemistry and biology. I am particularly captivated by the creation of innovative chemical methodologies, the development of functional small-molecule probes, and the exploration of self-assembling nanomaterials. My endeavors in these domains aim to advance drug discovery and explore diverse therapeutic avenues. I take pride in my contributions to the scientific community, as highlighted in the  [**Publications**](https://chengresearch.com/#featured) </p>
+<p style='text-align: justify;'> My research interests are broad, spanning the domains of chemistry and biology. I am particularly captivated by the creation of innovative chemical methodologies, the development of functional small-molecule probes, and the exploration of self-assembling nanomaterials. My endeavors in these domains aim to advance drug discovery and explore diverse therapeutic avenues. I take pride in my contributions to the scientific community, as highlighted in <a href="https://chengresearch.com/#featured">Publications</a>.</p>
 
 ## Collaborations
 
-<p style='text-align: justify;'> Collaboration is the heart of scientific progress. I am fortunate to collaborate with talented researchers and institutions around the world. Together, we endeavor to address some of the most pressing inquiries and pioneer meaningful progress. I extend an invitation to connect with me and engage in discussions regarding our shared scientific interests. Please don't hesitate to reach out via [**email**](mailto:ke.cheng@my.cityu.edu.hk) or connect with me on [**Twitter**](https://twitter.com/kecheng55). </p>
+<p style='text-align: justify;'> Collaboration is the heart of scientific progress. I am fortunate to collaborate with talented researchers and institutions around the world. Together, we endeavor to address some of the most pressing inquiries and pioneer meaningful progress. I extend an invitation to connect with me and engage in discussions regarding our shared scientific interests. Please don't hesitate to reach out via email at <a href="mailto:ke.cheng@my.cityu.edu.hk">email</a> or connect with me on <a href="https://twitter.com/kecheng55">Twitter</a>. </p>
 
 ## Closing Remarks:
 
 <p style='text-align: justify;'> Thank you for visiting my research website and taking the time to explore my scientific journey. I am excited to continue pushing the boundaries of what we know and uncovering the mysteries that lie ahead. Together, we can embark on an exhilarating voyage of exploration and innovation. </p>
-<p style='text-align: justify;'> **Stay curious!** </p>
+<p style='text-align: justify;'> Stay curious! </p>
 
 
