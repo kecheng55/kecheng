@@ -74,11 +74,10 @@ image:
 #   Otherwise, set `slides: ""`.
 ---
 **Highlights**: 
-1. The photo-cross-linking of isoxazole towards biomolecules is thoroughly investigated first.
-2. Functionalized isoxazole probes are designed for protein labeling, demonstrating superior photo-cross-linking efficiency.
-3. Isoxazole-based drugs, Danazol and Luminespib, are employed in chemoproteomic studies, revealing their potential cellular targets.
-4. The probe derived from Luminespib (isx10) demonstrates superior specificity in labeling and imaging Hsp90.
-5. Luminespib is investigated for covalent inhibition towards Hsp90 under UV irradiation.
+<p style='text-align: justify;'> 1. The photo-cross-linking of isoxazole towards biomolecules is thoroughly investigated first. </p>
+<p style='text-align: justify;'> 2. Functionalized isoxazole probes are designed for protein labeling, demonstrating superior photo-cross-linking efficiency. </p>
+<p style='text-align: justify;'> 3. Isoxazole-based drugs, Danazol and Luminespib, are employed in chemoproteomic studies, revealing their potential cellular targets. </p>
+<p style='text-align: justify;'> 4. The probe derived from Luminespib (isx10) demonstrates superior specificity in labeling and imaging Hsp90. </p>
+<p style='text-align: justify;'> 5. Luminespib is investigated for covalent inhibition towards Hsp90 under UV irradiation. </p>
 
-
-Supplementary Information can be accessed [here](uploads/anie202209947-sup-0001-misc_information.pdf).
+Supplementary Information can be accessed [**here**](uploads/anie202209947-sup-0001-misc_information.pdf).
