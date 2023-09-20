@@ -1,9 +1,9 @@
 ---
 title: Welcome to ChengResearch, Exploring the Frontiers of Scientific Discovery
-subtitle: Welcome to my personal research website! I am thrilled to share with you my passion for scientific exploration and discovery.
+subtitle: 
 
 # Summary for listings and search engines
-summary: []
+summary: Welcome to my personal research website! I am thrilled to share with you my passion for scientific exploration and discovery.
 
 # Link this post with a project
 projects: []
