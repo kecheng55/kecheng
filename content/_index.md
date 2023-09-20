@@ -120,7 +120,7 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: ke.cheng@my.cityu.edu.hk
       phone: +1 267 999-9182
-          contact_links:
+    contact_links:
         - icon: twitter
           icon_pack: fab
           name: DM Me
