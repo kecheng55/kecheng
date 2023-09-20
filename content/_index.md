@@ -116,15 +116,11 @@ sections:
       title: Contact
       subtitle:
     text: |-
+    I'm delighted to collaborate with researchers worldwide to address important questions and make meaningful advancements. Feel free to contact me via email or social media.
       # Contact (add or remove contact options as necessary)
     email: ke.cheng@my.cityu.edu.hk
     phone: +1 267 999-9182
-    contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/kecheng55'
-      address:
+    address:
         street: 66 Gongchang Rd
         city: Shenzhen
         region: Guangdong
