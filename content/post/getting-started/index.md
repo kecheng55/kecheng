@@ -35,7 +35,7 @@ tags:
   - Academic
 
 categories:
-  - general
+  - demo
 
 ---
 
