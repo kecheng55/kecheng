@@ -1,6 +1,6 @@
 ---
 title: Exploring the Frontiers of Scientific Discovery
-subtitle: Welcome to my personal research website! 
+subtitle:
 
 # Summary for listings and search engines
 summary: Welcome to ChengResearch, my personal research website! I am thrilled to share with you my passion for scientific exploration and discovery. Here, you will find a window into the world of research that has fueled my curiosity and led me on a journey to unravel the mysteries of the universe.
