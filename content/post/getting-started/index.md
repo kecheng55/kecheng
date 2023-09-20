@@ -3,7 +3,7 @@ title: Exploring the Frontiers of Scientific Discovery
 subtitle: 
 
 # Summary for listings and search engines
-summary: Welcome to ChengResearch, my personal research website!
+summary: Welcome to ChengResearch, my personal research website! I am thrilled to share with you my passion for scientific exploration and discovery. Here, you will find a window into the world of research that has fueled my curiosity and led me on a journey to unravel the mysteries of the universe.
 
 # Link this post with a project
 projects: []
@@ -45,7 +45,7 @@ categories:
 
 ## About Me
 
-<p style='text-align: justify;'> I am a committed researcher with a background encompassing chemical biology, medicinal chemistry, and nanomedicine. My odyssey in the world of science commenced with the development of tetrazole-based drugs via chemoproteomics. Since then, I have been on an unwavering mission to expand the horizons of human understanding, conducting one experiment at a time. </p>
+<p style='text-align: justify;'> I am a committed researcher with a background encompassing chemical biology, medicinal chemistry, and nanomedicine. My odyssey in the world of science commenced with the development of <a href="https://chengresearch.com/publication/angew1/">tetrazole-based drugs via chemoproteomics</a>. Since then, I have been on an unwavering mission to expand the horizons of human understanding, conducting one experiment at a time. </p>
 
 ## Research Interests
 
