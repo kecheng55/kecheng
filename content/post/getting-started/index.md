@@ -3,7 +3,7 @@ title: Welcome to ChengResearch, Exploring the Frontiers of Scientific Discovery
 subtitle: 
 
 # Summary for listings and search engines
-summary: Welcome to my personal research website! I am thrilled to share with you my passion for scientific exploration and discovery.
+summary: Welcome to my personal research website!
 
 # Link this post with a project
 projects: []
