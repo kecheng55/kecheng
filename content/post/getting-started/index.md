@@ -9,10 +9,10 @@ summary:
 projects: []
 
 # Date published
-date: '2023-09-20T22:58:00Z'
+date: '2023-09-19T22:58:00Z'
 
 # Date updated
-lastmod: '2023-09-20T22:58:00Z'
+lastmod: '2023-09-19T22:58:00Z'
 
 # Is this an unpublished draft?
 draft: false
