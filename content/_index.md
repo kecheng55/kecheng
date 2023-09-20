@@ -115,7 +115,7 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: |-
+    text: |-
     I'm delighted to collaborate with researchers worldwide to address important questions and make meaningful advancements. Feel free to contact me via email or social media.
       # Contact (add or remove contact options as necessary)
       email: ke.cheng@my.cityu.edu.hk
