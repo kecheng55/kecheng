@@ -3,7 +3,7 @@ title: Welcome to ChengResearch, Exploring the Frontiers of Scientific Discovery
 subtitle: 
 
 # Summary for listings and search engines
-summary: 
+summary: []
 
 # Link this post with a project
 projects: []
@@ -41,7 +41,7 @@ categories:
 
 ## Introduction
 
-Welcome to my personal research website! I am thrilled to share with you my passion for scientific exploration and discovery. Here, you will find a window into the world of research that has fueled my curiosity and led me on a journey to unravel the mysteries of the universe.<p style='text-align: justify;'> Your Text </p>
+<p style='text-align: justify;'> Welcome to my personal research website! I am thrilled to share with you my passion for scientific exploration and discovery. Here, you will find a window into the world of research that has fueled my curiosity and led me on a journey to unravel the mysteries of the universe. </p>
 
 ## About Me
 
