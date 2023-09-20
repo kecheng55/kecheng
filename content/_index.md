@@ -120,6 +120,11 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: ke.cheng@my.cityu.edu.hk
       phone:  +1 267 999-9182
+      contact_links:
+        - icon: twitter
+          icon_pack: fab
+          name: DM Me
+          link: 'https://twitter.com/kecheng55'
       address:
         street: No.66 Gongchang Rd
         city: Shenzhen
@@ -127,11 +132,6 @@ sections:
         postcode: '518107'
         country: China
         country_code: CN
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/kecheng55'
       # Automatically link email and phone or display as text?
       autolink: true
     design:
