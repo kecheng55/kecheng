@@ -35,7 +35,7 @@ tags:
   - Academic
 
 categories:
-  - demo
+  - []
 
 ---
 
@@ -45,21 +45,19 @@ categories:
 
 ## About Me
 
-I am a committed researcher with a background encompassing chemical biology, medicinal chemistry, and nanomedicine. My odyssey in the world of science commenced with the development of tetrazole-based drugs via chemoproteomics. Since then, I have been on an unwavering mission to expand the horizons of human understanding, conducting one experiment at a time.<p style='text-align: justify;'> Your Text </p>
+<p style='text-align: justify;'> I am a committed researcher with a background encompassing chemical biology, medicinal chemistry, and nanomedicine. My odyssey in the world of science commenced with the development of tetrazole-based drugs via chemoproteomics. Since then, I have been on an unwavering mission to expand the horizons of human understanding, conducting one experiment at a time. </p>
 
 ## Research Interests
 
-My research interests are broad, spanning the domains of chemistry and biology. I am particularly captivated by the creation of innovative chemical methodologies, the development of functional small-molecule probes, and the exploration of self-assembling nanomaterials. My endeavors in these domains aim to advance drug discovery and explore diverse therapeutic avenues. I take pride in my contributions to the scientific community, as highlighted in the  [**publications**](https://chengresearch.com/#featured){style="text-align: justify;"}
+<p style='text-align: justify;'> My research interests are broad, spanning the domains of chemistry and biology. I am particularly captivated by the creation of innovative chemical methodologies, the development of functional small-molecule probes, and the exploration of self-assembling nanomaterials. My endeavors in these domains aim to advance drug discovery and explore diverse therapeutic avenues. I take pride in my contributions to the scientific community, as highlighted in the  [**Publications**](https://chengresearch.com/#featured) </p>
 
 ## Collaborations
 
-Collaboration is the heart of scientific progress. I am fortunate to collaborate with talented researchers and institutions around the world. Together, we endeavor to address some of the most pressing inquiries and pioneer meaningful progress. I extend an invitation to connect with me and engage in discussions regarding our shared scientific interests. Please don't hesitate to reach out via [**email**](mailto:ke.cheng@my.cityu.edu.hk) or connect with me on [twitter](https://twitter.com/kecheng55).{style="text-align: justify;"}
-
+<p style='text-align: justify;'> Collaboration is the heart of scientific progress. I am fortunate to collaborate with talented researchers and institutions around the world. Together, we endeavor to address some of the most pressing inquiries and pioneer meaningful progress. I extend an invitation to connect with me and engage in discussions regarding our shared scientific interests. Please don't hesitate to reach out via [**email**](mailto:ke.cheng@my.cityu.edu.hk) or connect with me on [**Twitter**](https://twitter.com/kecheng55). </p>
 
 ## Closing Remarks:
 
-Thank you for visiting my research website and taking the time to explore my scientific journey. I am excited to continue pushing the boundaries of what we know and uncovering the mysteries that lie ahead. Together, we can embark on an exhilarating voyage of exploration and innovation. {style="text-align: justify;"}
-**Stay curious!**
-
+<p style='text-align: justify;'> Thank you for visiting my research website and taking the time to explore my scientific journey. I am excited to continue pushing the boundaries of what we know and uncovering the mysteries that lie ahead. Together, we can embark on an exhilarating voyage of exploration and innovation. </p>
+<p style='text-align: justify;'> **Stay curious!** </p>
 
 
