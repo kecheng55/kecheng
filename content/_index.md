@@ -28,7 +28,7 @@ sections:
           company: Sun Yat-sen University
           company_url: https://www.sysu.edu.cn/sysuen
           company_logo: sysu2
-          location: Shenzhen, China
+          location: China
           date_start: '2022-10-01'
           date_end: ''
           description: |2-
@@ -40,7 +40,7 @@ sections:
           company: City University of Hong Kong
           company_url: https://www.cityu.edu.hk/
           company_logo: cityu1
-          location: Kowloon Tong, Hong Kong
+          location: Hong Kong
           date_start: '2021-09-01'
           date_end: '2022-09-30'
           description: |2-
