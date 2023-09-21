@@ -26,7 +26,7 @@ marketing:
     microsoft_clarity: ''  
   verification:
     google: '<meta name="google-site-verification" content="xyQrCrrLnQn_XVU5ZRQwNV_WEkI5BBioYE4UF_PvB1k" />'
-    baidu: '<meta name="baidu-site-verification" content="codeva-97al096E1D" />'
+    baidu: 'codeva-97al096E1D'
 # Site header
 
 header:
