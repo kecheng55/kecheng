@@ -80,5 +80,5 @@ email: ke.cheng@my.cityu.edu.hk
 highlight_name: true
 ---
 
-Dr. Ke Cheng's research revolve around the creation of innovative chemical techniques to advance drug discovery and therapeutic options. He pioneered the utilization of tetrazole and isoxazole groups as native photo-cross-linkers for chemoproteomics, offering robust methodologies for direct interactome mapping of tetrazole/isoxazole drugs. Dr. Cheng also possesses substantial expertise in crafting chemical probes and inorganic materials as nanomaterials for biomedical applications. His contributions encompass the invention of activatable fluorescence probes and functionalized black phosphorus for precise, targeted cancer phototheranostics.
+Dr. Ke Cheng's research revolves around developing innovative chemical techniques to advance drug discovery and therapeutic options. He pioneered the utilization of tetrazole and isoxazole groups as native photo-cross-linkers for chemoproteomics, offering robust methodologies for direct interactome mapping of tetrazole/isoxazole drugs. Dr. Cheng also possesses substantial expertise in crafting small-molecule probes and inorganic nanomaterials for biomedical applications. His contributions encompass the invention of activatable fluorescence probes and functionalized black phosphorus for precise, targeted cancer phototheranostics.
 {style="text-align: justify;"}
