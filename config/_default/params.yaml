@@ -17,7 +17,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Welcome to the ChengResearch, my personal research website.'
+    description: 'Ke Cheng's Research Homepage'
     twitter: 'kecheng55'
   analytics:
     google_analytics: ''
@@ -25,7 +25,7 @@ marketing:
     google_tag_manager: ''
     microsoft_clarity: ''  
   verification:
-    google: '<meta name="google-site-verification" content="xyQrCrrLnQn_XVU5ZRQwNV_WEkI5BBioYE4UF_PvB1k" />'
+    google: '<xyQrCrrLnQn_XVU5ZRQwNV_WEkI5BBioYE4UF_PvB1k'
     baidu: '5cefb74827a9c5db4b655ea1787b9146'
 # Site header
 
