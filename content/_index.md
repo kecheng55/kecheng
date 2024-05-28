@@ -27,7 +27,7 @@ sections:
         - title: Postdoctoral Researcher
           company: University of California San Francisco
           company_url: https://profiles.ucsf.edu/ke.cheng
-          company_logo: sysu2
+          company_logo: UCSF
           location: California
           date_start: '2024-01-01'
           date_end: ''
@@ -44,7 +44,6 @@ sections:
           date_end: ''
           description: |2-
               Projects include:
-              * Chemical proteomic study of disulfide/diselenide probes
               * Self-assembly nano-PROTAC for synergetic photo-chemo-therapy
               * Biomedical application of black phosphorus
         - title: Postdoctoral Researcher
