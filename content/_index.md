@@ -24,6 +24,17 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+       - title: Postdoctoral Researcher
+          company: University of California San Francisco
+          company_url: https://profiles.ucsf.edu/ke.cheng
+          company_logo: UCSF1
+          location: California
+          date_start: '2024-01-01'
+          date_end: ''
+          description: |2-
+              Projects include:
+              * Trioxolane Antimalarials
+              * Functional Radioligands for Cancer Theranostics
         - title: Postdoctoral Researcher
           company: Sun Yat-sen University
           company_url: https://www.sysu.edu.cn/sysuen
@@ -48,7 +59,7 @@ sections:
               * Developing isoxazole group as a native photo-cross-linker for chemoproteomics
               * Self-assembly activatable photosensitizers for targeted cancer theranostics
     design:
-      columns: '2'
+      columns: '3'
   - block: collection
     id: featured
     content:
