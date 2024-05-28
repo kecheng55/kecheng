@@ -18,7 +18,7 @@ role: PhD, Chemistry
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of California San Francisco
+  - name: University of California, San Francisco (UCSF)
     url: https://profiles.ucsf.edu/ke.cheng
 
 # Short bio (displayed in user profile at end of posts)
