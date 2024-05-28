@@ -18,17 +18,18 @@ role: PhD, Chemistry
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: City University of Hong Kong
-    url: https://www.cityu.edu.hk/
+  - name: University of California San Francisco
+    url: https://profiles.ucsf.edu/ke.cheng
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests lie at the surface of chemistry and biology, where I am deeply passionate about applying innovative photochemistry and functional probes to advance fields such as chemoproteomics, nanomedicine, and disease theranostics. My aim is to provide robust methodologies for mapping biological interactomes, accelerating drug development, and expanding therapeutic opportunities.
+bio: My research interests lie at the surface of chemistry and biology, where I am deeply passionate about applying innovative chemistry to advance fields such as chemoproteomics, drug discovery, nanomedicine, and theranostics. My aim is to provide robust methodologies for mapping biological interactomes, accelerating drug development, and expanding therapeutic opportunities.
 
 # Interests to show in About widget
 interests:
-  - Chemoproteomics 
-  - Chemical Probe Development
-  - Nanomedicine
+  - Chemical biology
+  - Nanomaterials
+  - Cancer theranostics
+  - Medicinal Chemistry
 
 # Education to show in About widget
 education:
@@ -36,12 +37,6 @@ education:
     - course: PhD in Chemistry
       institution: City University of Hong Kong
       year: 2021
-    - course: MSc in Medicinal Chemistry
-      institution: Jinan University
-      year: 2018
-    - course: BEng in Pharmaceutical Engineering
-      institution: Wuhan Institute of Technology
-      year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -50,7 +45,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:ke.cheng@my.cityu.edu.hk'
+    link: 'mailto:ke.cheng@ucsf.edu'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/kecheng55
@@ -59,7 +54,7 @@ social:
       header: false
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
-    link: https://scholar.google.com/citations?&user=wvnvmnmaaaj
+    link: https://scholar.google.com.hk/citations?user=WVnVmNMAAAAJ
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0001-5057-3120
@@ -74,7 +69,7 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ke.cheng@my.cityu.edu.hk
+email: ke.cheng@ucsf.edu
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
