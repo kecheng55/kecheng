@@ -75,5 +75,5 @@ email: ke.cheng@ucsf.edu
 highlight_name: true
 ---
 
-Dr. Ke Cheng's research revolves around developing innovative chemical techniques to advance drug discovery and therapeutic options. He pioneered the utilization of tetrazole and isoxazole groups as native photo-cross-linkers for chemoproteomics, offering robust methodologies for direct interactome mapping of tetrazole/isoxazole drugs. Dr. Cheng also possesses substantial expertise in crafting small-molecule probes and inorganic nanomaterials for biomedical applications. His contributions encompass the invention of activatable fluorescence probes and functionalized black phosphorus for precise, targeted cancer phototheranostics.
+My research focuses on using new chemical approaches to advance drug discovery and therapeutic options. I have developed tetrazole and isoxazole as native photo-cross-linkers for chemoproteomics, offering direct interactome mapping methods for tetrazole/isoxazole drug development. I am also passionate about crafting small-molecule probes/inorganic nanomaterials for precise, targeted cancer theranostics.
 {style="text-align: justify;"}
