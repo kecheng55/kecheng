@@ -31,7 +31,7 @@ sections:
           location: California
           date_start: '2024-01-01'
           date_end: ''
-          description: |1-
+          description: |3-
               Projects include:
               * Trioxolane Antimalarials
               * Functional Radioligands for Cancer Theranostics
@@ -42,7 +42,7 @@ sections:
           location: China
           date_start: '2022-10-01'
           date_end: ''
-          description: |2-
+          description: |3-
               Projects include:
               * Chemical proteomic study of disulfide/diselenide probes
               * Self-assembly nano-PROTAC for synergetic photo-chemo-therapy
@@ -59,7 +59,7 @@ sections:
               * Developing isoxazole group as a native photo-cross-linker for chemoproteomics
               * Self-assembly activatable photosensitizers for targeted cancer theranostics
     design:
-      columns: '3'
+      columns: '2'
   - block: collection
     id: featured
     content:
