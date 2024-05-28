@@ -31,7 +31,7 @@ sections:
           location: California
           date_start: '2024-01-01'
           date_end: ''
-          description: |3-
+          description: |1-
               Projects include:
               * Trioxolane Antimalarials
               * Functional Radioligands for Cancer Theranostics
