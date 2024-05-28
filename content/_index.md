@@ -42,7 +42,7 @@ sections:
           location: China
           date_start: '2022-10-01'
           date_end: ''
-          description: |3-
+          description: |2-
               Projects include:
               * Chemical proteomic study of disulfide/diselenide probes
               * Self-assembly nano-PROTAC for synergetic photo-chemo-therapy
