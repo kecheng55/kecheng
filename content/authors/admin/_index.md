@@ -58,7 +58,7 @@ social:
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0001-5057-3120
-  - icon: researchgate
+  #- icon: researchgate
     icon_pack: fab
     link: https://www.researchgate.net/profile/Ke-Cheng-6
   # Link to a PDF of your resume/CV.
