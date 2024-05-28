@@ -25,17 +25,16 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Postdoctoral Researcher
-          company: Sun Yat-sen University
-          company_url: https://www.sysu.edu.cn/sysuen
+          company: University of California San Francisco
+          company_url: https://profiles.ucsf.edu/ke.cheng
           company_logo: sysu2
-          location: China
-          date_start: '2022-10-01'
+          location: California
+          date_start: '2024-01-01'
           date_end: ''
           description: |2-
               Projects include:
-              * Chemical proteomic study of disulfide/diselenide probes
-              * Self-assembly nano-PROTAC for synergetic photo-chemo-therapy
-              * Biomedical application of black phosphorus
+              * Trioxolane antimarials
+              * Radiolgiands for enhanced anticancer therapy
         - title: Postdoctoral Researcher
           company: Sun Yat-sen University
           company_url: https://www.sysu.edu.cn/sysuen
