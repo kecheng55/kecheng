@@ -129,19 +129,19 @@ sections:
         I'm delighted to collaborate with researchers worldwide to address important questions and make meaningful advancements. Feel free to contact me via email or social media.
       # Contact (add or remove contact options as necessary)
       email: ke.cheng@ucsf.edu
-      # phone:  +1 267 999-9182
+      phone: 415-993-2020
       contact_links:
         - icon: twitter
           icon_pack: fab
           name: DM Me
           link: 'https://twitter.com/kecheng55'
       address:
-        street: No.66 Gongchang Rd
-        city: Shenzhen
-        region: Guangdong
-        postcode: '518107'
-        country: China
-        country_code: CN
+        street: 600 16th Street, #N574
+        city: San Francisco
+        region: California
+        postcode: '94158'
+        country: United States
+        country_code: US
       # Automatically link email and phone or display as text?
       autolink: true
     design:
