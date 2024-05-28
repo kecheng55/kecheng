@@ -14,12 +14,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD, Chemistry 
+role: PhD
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of California, San Francisco (UCSF)
-    url: https://profiles.ucsf.edu/ke.cheng
+    url: https://www.ucsf.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests lie at the surface of chemistry and biology, where I am deeply passionate about applying innovative chemistry to advance fields such as chemoproteomics, drug discovery, nanomedicine, and theranostics. My aim is to provide robust methodologies for mapping biological interactomes, accelerating drug development, and expanding therapeutic opportunities.
