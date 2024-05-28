@@ -59,7 +59,7 @@ sections:
               * Developing isoxazole group as a native photo-cross-linker for chemoproteomics
               * Self-assembly activatable photosensitizers for targeted cancer theranostics
     design:
-      columns: '2'
+      columns: '3'
   - block: collection
     id: featured
     content:
