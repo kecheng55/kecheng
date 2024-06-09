@@ -54,7 +54,7 @@ social:
       header: false
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
-    link: https://scholar.google.com.hk/citations?user=WVnVmNMAAAAJ
+    link: https://scholar.google.com/citations?user=WVnVmNMAAAAJ
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0001-5057-3120
