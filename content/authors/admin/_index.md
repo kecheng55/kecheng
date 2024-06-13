@@ -59,8 +59,8 @@ social:
     icon_pack: fab
     link: https://orcid.org/0000-0001-5057-3120
   #- icon: researchgate
-    icon_pack: fab
-    link: https://www.researchgate.net/profile/Ke-Cheng-6
+  #  icon_pack: fab
+  #  link: https://www.researchgate.net/profile/Ke-Cheng-6
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
