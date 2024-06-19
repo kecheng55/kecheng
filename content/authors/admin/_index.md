@@ -18,7 +18,7 @@ role: PhD
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of California, San Francisco (UCSF)
+  - name: University of California, San Francisco
     url: https://www.ucsf.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -54,7 +54,7 @@ social:
       header: false
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
-    link: https://scholar.google.com/citations?hl=en&user=HfBo1jcAAAAJ
+    link: https://scholar.google.com/citations?user=HfBo1jcAAAAJ&hl=en
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0001-5057-3120
