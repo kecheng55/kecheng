@@ -27,7 +27,7 @@ sections:
         - title: Postdoctoral Researcher
           company: University of California San Francisco
           company_url: https://profiles.ucsf.edu/ke.cheng
-          company_logo: UCSF
+          company_logo: UCSF1
           location: United States
           date_start: '2024-01-01'
           date_end: ''
