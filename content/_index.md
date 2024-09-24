@@ -28,7 +28,7 @@ sections:
           company: University of California San Francisco
           company_url: https://profiles.ucsf.edu/ke.cheng
           company_logo: UCSF
-          location: United States
+          location: San Francisco
           date_start: '2024-01-01'
           date_end: ''
           description: |2-
@@ -39,7 +39,7 @@ sections:
           company: Sun Yat-sen University
           company_url: https://www.sysu.edu.cn/sysuen
           company_logo: sysu2
-          location: China
+          location: Shenzhen
           date_start: '2022-10-01'
           date_end: '2023-12-01'
           description: |2-
