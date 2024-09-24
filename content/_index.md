@@ -29,7 +29,7 @@ sections:
           company_url: https://profiles.ucsf.edu/ke.cheng
           company_logo: UCSF
           location: United States
-          date_start: '2024-01-01'
+          date_start: '2024'
           date_end: ''
           description: |2-
               Projects include:
