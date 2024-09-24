@@ -17,7 +17,7 @@ sections:
       title: Professional Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: 2006
+      date_format: Jan 2006
       # Experiences.
       #   Add/remove as many `experience` items below as you like.
       #   Required fields are `title`, `company`, and `date_start`.
@@ -29,7 +29,7 @@ sections:
           company_url: https://profiles.ucsf.edu/ke.cheng
           company_logo: UCSF
           location: United States
-          date_start: '2024'
+          date_start: '2024-01-01'
           date_end: ''
           description: |2-
               Projects include:
