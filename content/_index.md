@@ -55,7 +55,7 @@ sections:
           date_end: '2022-09-30'
           description: |2-
               Projects include:
-              * Isoxazole native photo-cross-linker for chemoproteomics
+              * Isoxazole-based photo-cross-linker for photoaffinity labeling and chemoproteomics
               * Self-assembly activatable photosensitizers for cancer Nanotheranostics
     design:
       columns: '2'
