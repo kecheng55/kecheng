@@ -18,8 +18,7 @@ role:
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of California
-San Francisco
+  - name: University of California     San Francisco
     url: https://www.ucsf.edu/
 
 # Short bio (displayed in user profile at end of posts)
