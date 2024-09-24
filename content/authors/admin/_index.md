@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ke Cheng
+title: Ke Cheng, PhD
 
 # Full name (for SEO)
 first_name: Ke
