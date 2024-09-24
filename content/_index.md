@@ -17,7 +17,7 @@ sections:
       title: Professional Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
+      date_format: 2006
       # Experiences.
       #   Add/remove as many `experience` items below as you like.
       #   Required fields are `title`, `company`, and `date_start`.
@@ -41,7 +41,7 @@ sections:
           company_logo: sysu2
           location: China
           date_start: '2022-10-01'
-          date_end: ''
+          date_end: '2023-12-01'
           description: |2-
               Projects include:
               * Self-assembly nano-PROTAC for synergetic photo-chemo-therapy
