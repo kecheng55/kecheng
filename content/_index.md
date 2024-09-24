@@ -33,8 +33,8 @@ sections:
           date_end: ''
           description: |2-
               Projects include:
-              * Trioxolane antimarials
-              * Radiolgiands for enhanced anticancer therapy
+              * Development of trioxolane antimalarials and anticancer drugs
+              * Small-molecule probes for targeted radioligand therapy
         - title: Postdoctoral Researcher
           company: Sun Yat-sen University
           company_url: https://www.sysu.edu.cn/sysuen
@@ -45,7 +45,7 @@ sections:
           description: |2-
               Projects include:
               * Self-assembly nano-PROTAC for synergetic photo-chemo-therapy
-              * Biomedical application of black phosphorus
+              * Black phosphorus nanomaterials for biomedical application
         - title: Postdoctoral Researcher
           company: City University of Hong Kong
           company_url: https://scholars.cityu.edu.hk/en/persons/ke-cheng(58c29bd6-cebe-40ed-acd8-7ed1cee38a13).html
@@ -55,8 +55,8 @@ sections:
           date_end: '2022-09-30'
           description: |2-
               Projects include:
-              * Developing isoxazole group as a native photo-cross-linker for chemoproteomics
-              * Self-assembly activatable photosensitizers for targeted cancer theranostics
+              * Isoxazole native photo-cross-linker for chemoproteomics
+              * Self-assembly activatable photosensitizers for cancer Nanotheranostics
     design:
       columns: '2'
   - block: collection
