@@ -51,13 +51,13 @@ featured: false
 #   url: http://example.org  - name: PubMed url: https://pubmed.ncbi.nlm.nih.gov/36410110
 links:
   - name: ScienceDirect
-    url: https://www.sciencedirect.com/science/article/pii/S1385894723037087
-url_pdf: uploads/cej2023.pdf
+    url: https://www.sciencedirect.com/science/article/pii/S1385894724000998
+url_pdf: uploads/cej2024.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: '© 2023 Elsevier Ltd. All rights reserved.'
+  caption: '© 2024 Elsevier Ltd. All rights reserved.'
   focal_point: ''
   preview_only: false
 
@@ -81,4 +81,4 @@ image:
 • BPNS directly binds to CSNK2A2 leading to the inhibition of this signaling pathway.
 • BPNS holds promise as a potential therapeutic strategy for GBM.
 
-Supplementary Information can be accessed [here](uploads/1-s2.0-S1385894723037087-mmc1.pdf).
+Supplementary Information can be accessed [here](uploads/cej2024-si.pdf).
