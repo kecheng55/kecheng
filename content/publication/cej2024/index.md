@@ -1,5 +1,5 @@
 ---
-title: 'Black phosphorus nanosheets enhance differentiation of neural progenitor cells for improved treatment in spinal cord injury'
+title: 'Black phosphorus nanosheets inhibit glioblastoma cell migration and invasion through modulation of WNT/β-catenin and NOTCH signaling pathways'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
