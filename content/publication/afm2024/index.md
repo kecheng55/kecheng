@@ -52,7 +52,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org 
 links:
-  - name: Wiley
+  - name: Wiley Online Library
     url: https://onlinelibrary.wiley.com/doi/10.1002/adfm.202400597
 
 url_pdf: uploads/afm2024.pdf
