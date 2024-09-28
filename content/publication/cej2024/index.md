@@ -76,9 +76,14 @@ image:
 **Highlights**:
 
 • Black phosphorus nanosheet (BPNS) possesses new biological activity.
+
 • BPNS effectively inhibits the invasion and migration of glioblastoma (GBM).
+
 • The WNT/β-catenin signaling pathway is the key pathway for BPNS‘s bioactivity.
+
 • BPNS directly binds to CSNK2A2 leading to the inhibition of this signaling pathway.
+
 • BPNS holds promise as a potential therapeutic strategy for GBM.
+
 
 Supplementary Information can be accessed [here](uploads/1-s2.0-S1385894724000998-mmc1.docx).
