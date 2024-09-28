@@ -11,7 +11,7 @@ authors:
   - Xiaojie Ren
   - Dongqing Wang
   - Chen Huang
-  - Ke Cheng
+  - Admin
   - Junyang Qi
   - Heng Shi
   - Shenglong Gan
