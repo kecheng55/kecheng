@@ -52,7 +52,7 @@ featured: false
 links:
   - name: ScienceDirect
     url: https://www.sciencedirect.com/science/article/pii/S1385894724000998
-url_pdf: uploads/S1385894724000998main.pdf
+url_pdf: uploads/S1385894724000998-main.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -86,4 +86,4 @@ image:
 • BPNS holds promise as a potential therapeutic strategy for GBM.
 
 
-Supplementary Information can be accessed [here](uploads/S1385894724000998-mmc1.docx).
+Supplementary Information can be accessed [here](uploads/S1385894724000998-mmc1.pdf).
