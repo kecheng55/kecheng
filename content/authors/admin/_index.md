@@ -27,9 +27,10 @@ bio: My research interests lie at the surface of chemistry and biology, where I 
 # Interests to show in About widget
 interests:
   - Chemical biology
+  - Medicinal Chemistry
   - Nanomaterials
   - Cancer theranostics
-  - Medicinal Chemistry
+  
 
 # Education to show in About widget
 education:
