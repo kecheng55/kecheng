@@ -1,6 +1,6 @@
 ---
 # Display name
-title: PhD
+title: Ke Cheng
 
 # Full name (for SEO)
 first_name: Ke
@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role:
+role:PhD
 
 # Organizations/Affiliations to show in About widget
 organizations:
