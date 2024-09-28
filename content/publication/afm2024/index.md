@@ -1,20 +1,28 @@
 ---
-title: 'Identification of SIRT3 as an eraser of H4K16la'
+title: 'A General Cyanine-Based Platform for Designing Robust Dual-Channel Near-Infrared Fluorescent and Photoacoustic Probes'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Zhuming Fan
-  - Zhiyang Liu
-  - Nan Zhang
+  - Pingzhou Wu
+  - Zheng Qu
+  - Jie Zhang
+  - Xiaojie Ren
+  - Dongqing Wang
+  - Chen Huang
+  - Ke Cheng
+  - Junyang Qi
+  - Heng Shi
+  - Shenglong Gan
   - Wenyu Wei
-  - admin
+  - Yachao Zhang
+  - Chun-Sing Lee
+  - Lidai Wang
   - Hongyan Sun
-  - Quan Hao
 
-date: '2023-08-28'
-doi: 10.1016/j.isci.2023.107757
+date: '2024-05-20'
+doi: https://doi.org/10.1002/adfm.202400597
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-08-28T00:00:00Z'
@@ -26,10 +34,10 @@ publishDate: '2023-08-28T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In ***iScience***
-publication_short: In **_iScience_** 2023, _26_, 107757
+publication: In ***Advanced Functional Materials***
+publication_short: In **_Adv. Funct. Mater._** 2024, 2400597
 
-abstract: Lysine lactylation (Kla) is a novel histone post-translational modification discovered in late 2019. Later, HDAC1-3, were identified as the robust Kla erasers. While the Sirtuin family proteins showed weak eraser activities toward Kla, as reported. However, the catalytic mechanisms and physiological functions of HDACs and Sirtuins are not identical. In this study, we observed that SIRT3 exhibits a higher eraser activity against the H4K16la site than the other human Sirtuins. Crystal structures revealed the detailed binding mechanisms between lactyl-lysine peptides and SIRT3. Furthermore, a chemical probe, p-H4K16laAlk, was developed to capture potential Kla erasers from cell lysates. SIRT3 was captured by this probe and detected via proteomic analysis. And another chemical probe, p-H4K16la-NBD, was developed to detect the eraser-Kla delactylation processes directly via fluorescence indication. Our findings and chemical probes provide new directions for further investigating Kla and its roles in gene transcription regulation.
+abstract: The creation of versatile platforms for developing dual-channel near-infrared fluorescent (NIRF) and photoacoustic (PA) probes, especially those engineered to minimize channel crosstalk, is crucial for precise biomarker detection. However, such platforms remain scarce. To bridge this gap, this study introduces an innovative cyanine-based platform, CySN. The CySN platform showcases remarkable wavelength-shifting properties, including large fluorescent modality shift (68 nm) and PA modality shift (145 nm) after the decaging reaction. These substantial changes lead to an exceptionally high ratiometric NIRF change of 603-fold and ratiometric PA change of 261-fold. Leveraging the CySN platform, dual-channel NIRF/PA probes have been successfully developed for detecting both small molecule biomarker (H2O2) and enzyme biomarker (esterase). These probes demonstrate the ability to detect their targets through dual-channel NIRF/PA detection with high sensitivity and selectivity in vitro. Furthermore, the probes effectively harness NIRF signals to image target analytes in living cells. Notably, the probes demonstrate the capability to accurately diagnose tumors by detecting tumor markers (H2O2 and esterase), revealing a 3.6 to 7-fold ratiometric PA enhancement over normal tissue. Therefore, the CySN platform holds the potential to further advance the development of dual-channel NIRF/PA probes for biomolecule detection in disease diagnosis.
 
 # Summary. An optional shortened abstract.
 summary:  
@@ -44,16 +52,14 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org 
 links:
-  - name: CellPress
-    url: https://doi.org/10.1016/j.isci.2023.107757
-  - name: PubMed
-    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10504495/
-url_pdf: uploads/iscience2023.pdf
+  - name: Wiley
+    URL: https://doi.org/10.1002/adfm.202400597
+url_pdf: uploads/afm2024.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'iScience 26, 107757, October 20, 2023.'
+  caption: 'Adv. Funct. Mater. 2400597, May 20, 2024.'
   focal_point: ''
   preview_only: false
 
@@ -71,11 +77,4 @@ image:
 ---
 **Highlights**:
 
-• SIRT3 shows a preference for delactylating H4K16 site compared to other Sirtuins
-
-• Crystal structures revealed the binding details between lactyl-motif and SIRT3
-
-• The probe with clickable photo-cross-linker captured SIRT3 from cell lysates
-
-• The fluorogenic probe can be used to monitor the delactylation processes directly
-
+In summary, we have established a versatile platform, CySN, for designing dual-channel NIRF/PA probes with minimal channel crosstalk and exceptionally large dual-ratiometric signal-to-background ratios. The model experiments demonstrated that CySN achieved a remarkable 603-fold change in F744/F812 and a 261-fold change in PA635/PA780, representing a significant enhancement compared to the previously reported NIRF/PA probes. Building upon CySN, we designed probes CySN-H and CySN-E for dual-channel NIRF/PA detection of hydrogen peroxide and esterase, respectively. Both probes exhibited high sensitivity and selectivity in in vitro experiments. Capitalizing on the advantage of minimal channel overlay in the two ratiometric signals, CySN demonstrated excellent performance in PA imaging of living mice, facilitating the detection of both H2O2 and esterase activity in tumor models. The ratiometric PA enhancement fold for in vivo detection is high and significantly improves the efficiency and accuracy of the probes. We anticipate that the CySN platform will stimulate the development of more robust dual-channel NIRF/PA probes for detecting other crucial bioanalytes in disease diagnosis. Furthermore, we envision that our design will inspire further efforts in optimizing optical probes for enhanced performance in clinical applications.
