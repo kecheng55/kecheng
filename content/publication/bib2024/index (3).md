@@ -1,26 +1,21 @@
 ---
-title: 'Self-assembled nano-photosensitizer for targeted, activatable, and biosafe cancer phototheranostics'
+title: 'TransPTM: a transformer-based model for non-histone acetylation site prediction'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - Junyang Qi
-  - Jie Zhang
-  - Huangxu Li
-  - Xiaojie Ren
-  - Wenyu Wei
   - Lingkuan Meng
-  - Jing Li
-  - Qianqian Li
-  - Huatang Zhang
-  - Wenbin Deng
+  - Xingjian Chen
+  - admin
+  - Nanjun Chen
+  - Zetian Zheng
+  - Fuzhou Wang
   - Hongyan Sun
-  - Lin Mei
+  - Ka-Chun Wong
 
-date: '2022-11-15'
-doi: 10.1016/j.biomaterials.2022.121916
+date: '2024-05-09'
+doi: 10.1093/bib/bbae219
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-11-15T00:00:00Z'
@@ -32,34 +27,33 @@ publishDate: '2022-11-15T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In ***Biomaterials***
-publication_short: In **_Biomaterials_** 2022, _291_, 121916
+publication: In ***Briefings in Bioinformatics***
+publication_short: In **_Brief. Bioinform_** 2024, _25_, bbae219
 
-Abstract: Cancer treatment currently still faces crucial challenges in therapeutic effectiveness, precision, and complexity. Photodynamic therapy (PDT) as a non-invasive tactic has earned widespread popularity for its excellent therapeutic output, flexibility, and restrained toxicity. Nonetheless, drawbacks, including low efficiency, poor cancer specificity, and limited therapeutic depth, remain considerable during the cancer treatment. Although great effort has been made to improve the performance, the overall efficiency and biosafety are still ambiguous and unable to meet urgent clinical needs. Herein, this study integrates merits from previous PDT strategies and develops a cancer-targeting, activatable, biosafe photosensitizer. Owing to excellent self-assembly ability, this photosensitizer can be conveniently prepared as multifunctional nano-photosensitizers, namely MBNPs, and applied to in vivo cancer phototheranostics in “all-in-one” mode. This study successfully verifies the mechanism of MBNPs, then deploys them to cell-based and in vivo cancer PDT. Based on the unique cancer microenvironment, MBNPs achieve precise distribution, accumulation, and activation towards the tumor, releasing methylene blue as a potent photosensitizer for phototherapy. The PDT outcome demonstrates MBNPs’ superior cancer specificity, remarkable PDT efficacy, and negligible toxicity. Meanwhile, in vivo NIR fluorescence and photoacoustic imaging have been utilized to guide the PDT treatment synergistically. Additionally, the biosafety of the MBNPs-based PDT treatment is ensured, thus providing potential for future clinical studies.
+Abstract: Protein acetylation is one of the extensively studied post-translational modifications (PTMs) due to its significant roles across a myriad of biological processes. Although many computational tools for acetylation site identification have been developed, there is a lack of benchmark dataset and bespoke predictors for non-histone acetylation site prediction. To address these problems, we have contributed to both dataset creation and predictor benchmark in this study. First, we construct a non-histone acetylation site benchmark dataset, namely NHAC, which includes 11 subsets according to the sequence length ranging from 11 to 61 amino acids. There are totally 886 positive samples and 4707 negative samples for each sequence length. Secondly, we propose TransPTM, a transformer-based neural network model for non-histone acetylation site predication. During the data representation phase, per-residue contextualized embeddings are extracted using ProtT5 (an existing pre-trained protein language model). This is followed by the implementation of a graph neural network framework, which consists of three TransformerConv layers for feature extraction and a multilayer perceptron module for classification. The benchmark results reflect that TransPTM has the competitive performance for non-histone acetylation site prediction over three state-of-the-art tools. It improves our comprehension on the PTM mechanism and provides a theoretical basis for developing drug targets for diseases. Moreover, the created PTM datasets fills the gap in non-histone acetylation site datasets and is beneficial to the related communities. The related source code and data utilized by TransPTM are accessible at https://www.github.com/TransPTM/TransPTM.
 
 # Summary. An optional shortened abstract.
-summary: We have developed a GSH-triggered, activatable, and cancer-targeting probe, MBP, based on our rational design of a small NIRF photosensitizer, methylene blue. This multifunctional probe can self-assemble and present as nano-photosensitizer, MBNPs. Hence, an “all-in-one” cancer phototheranostic strategy with multiple cancer-targeting abilities and upgraded PDT mode has been proposed and established. 
-
+summary:
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: no
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 links:
-  - name: ScienceDirect
-    url: https://www.sciencedirect.com/science/article/pii/S0142961222005567
+  - name: Oxford University Press
+    url: https://academic.oup.com/bib/article/25/3/bbae219/7667560#449115313
   - name: PubMed
-    url: https://pubmed.ncbi.nlm.nih.gov/36410110
-url_pdf: uploads/biomaterials2022.pdf
+    url: https://pubmed.ncbi.nlm.nih.gov/38725156
+url_pdf: uploads/bbae219.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: '© 2022 Elsevier Ltd. All rights reserved.'
+  caption: '© 2024 Elsevier Ltd. All rights reserved.'
   focal_point: ''
   preview_only: false
 
@@ -77,9 +71,10 @@ image:
 ---
 
 **Highlights:**
-<p style='text-align: justify;'> 1. A GSH-triggered, activatable, and cancer-targeting probe is developed based on the rational design of methylene blue. This multifunctional probe can self-assemble into nano-photosensitizer, MBNPs. </p>
-<p style='text-align: justify;'> 2. In vitro and cellular experiments demonstrate the mechanism and superior therapeutic efficacy/precision of MBNPs. </p>
-<p style='text-align: justify;'> 3. MBNPs are applied to in vivo cancer PDT experiments, demonstrating good biosafety and remarkable efficacy/precision in tumor ablation. </p>
-<p style='text-align: justify;'> 4. The “all-in-one” tactic achieves fluorescence/photoacoustic guided cancer phototheranostics with single small molecules. </p>
 
-Supplementary Information can be accessed [**here**](uploads/biomaterials2022si.pdf).
+<p style='text-align: justify;'> 1. A transformer-based deep learning model is proposed for non-histone acetylation site prediction, which achieves the best performance among the state-of-the-art models. </p>
+<p style='text-align: justify;'> 2. The establishment of NHAC, a benchmark dataset specifically designed for non-histone acetylation site prediction, enriches the landscape of lysine acetylation site databases. </p>
+<p style='text-align: justify;'> 3. Pre-trained protein language model ProtT5 is employed for generating contextualized representations of protein sequences by capturing dependencies between amino acid residues. </p>
+<p style='text-align: justify;'> 4. The self-attention mechanism in TransPTM can reveal key residue positions for non-histone protein acetylation, thereby demonstrating the interpretability of our model. </p>
+
+Supplementary Information can be accessed [**here**](uploads/supplementary_material_bbae219.pdf).
