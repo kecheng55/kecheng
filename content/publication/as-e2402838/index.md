@@ -1,26 +1,32 @@
 ---
-title: 'Self-assembled nano-photosensitizer for targeted, activatable, and biosafe cancer phototheranostics'
+title: 'Reactivity-Tunable Fluorescent Platform for Selective andBiocompatible Modiﬁcation of Cysteine or Lysine'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - Junyang Qi
-  - Jie Zhang
-  - Huangxu Li
   - Xiaojie Ren
+  - Haokun Li
+  - Hui Peng
+  - Yang Yang
+  - Hang Su
+  - Chen Huang
+  - Xuan Wang
+  - Jie Zhang
+  - Zhiyang Liu
   - Wenyu Wei
-  - Lingkuan Meng
-  - Jing Li
-  - Qianqian Li
-  - Huatang Zhang
-  - Wenbin Deng
+  - admin
+  - Tianyang Zhu
+  - Zhenpin Lu
+  - Zhengqiu Li
+  - Qian Zhao
+  - Ben Zhong Tang
+  - Shao Q Yao
+  - Xiangzhi Song
   - Hongyan Sun
-  - Lin Mei
 
-date: '2022-11-15'
-doi: 10.1016/j.biomaterials.2022.121916
+date: '2024-06-03'
+doi: 10.1002/advs.202402838
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-11-15T00:00:00Z'
@@ -32,34 +38,33 @@ publishDate: '2022-11-15T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In ***Biomaterials***
-publication_short: In **_Biomaterials_** 2022, _291_, 121916
+publication: In ***Advanced Science***
+publication_short: In **_Adv. Sci._** 2024, 11, 2402838
 
-Abstract: Cancer treatment currently still faces crucial challenges in therapeutic effectiveness, precision, and complexity. Photodynamic therapy (PDT) as a non-invasive tactic has earned widespread popularity for its excellent therapeutic output, flexibility, and restrained toxicity. Nonetheless, drawbacks, including low efficiency, poor cancer specificity, and limited therapeutic depth, remain considerable during the cancer treatment. Although great effort has been made to improve the performance, the overall efficiency and biosafety are still ambiguous and unable to meet urgent clinical needs. Herein, this study integrates merits from previous PDT strategies and develops a cancer-targeting, activatable, biosafe photosensitizer. Owing to excellent self-assembly ability, this photosensitizer can be conveniently prepared as multifunctional nano-photosensitizers, namely MBNPs, and applied to in vivo cancer phototheranostics in “all-in-one” mode. This study successfully verifies the mechanism of MBNPs, then deploys them to cell-based and in vivo cancer PDT. Based on the unique cancer microenvironment, MBNPs achieve precise distribution, accumulation, and activation towards the tumor, releasing methylene blue as a potent photosensitizer for phototherapy. The PDT outcome demonstrates MBNPs’ superior cancer specificity, remarkable PDT efficacy, and negligible toxicity. Meanwhile, in vivo NIR fluorescence and photoacoustic imaging have been utilized to guide the PDT treatment synergistically. Additionally, the biosafety of the MBNPs-based PDT treatment is ensured, thus providing potential for future clinical studies.
+Abstract: Chemoselective modification of specific residues within a given protein poses a significant challenge, as the microenvironment of amino acid residues in proteins is variable. Developing a universal molecular platform with tunable chemical warheads can provide powerful tools for precisely labeling specific amino acids in proteins. Cysteine and lysine are hot targets for chemoselective modification, but current cysteine/lysine-selective warheads face challenges due to cross-reactivity and unstable reaction products. In this study, a versatile fluorescent platform is developed for highly selective modification of cysteine/lysine under biocompatible conditions. Chloro- or phenoxy-substituted NBSe derivatives effectively labeled cysteine residues in the cellular proteome with high specificity. This finding also led to the development of phenoxy-NBSe phototheragnostic for the diagnosis and activatable photodynamic therapy of GSH-overexpressed cancer cells. Conversely, alkoxy-NBSe derivatives are engineered to selectively react with lysine residues in the cellular environment, exhibiting excellent anti-interfering ability against thiols. Leveraging a proximity-driven approach, alkoxy-NBSe probes are successfully designed to demonstrate their utility in bioimaging of lysine deacetylase activity. This study also achieves integrating a small photosensitizer into lysine residues of proteins in a regioselective manner, achieving photoablation of cancer cells activated by overexpressed proteins.
 
 # Summary. An optional shortened abstract.
-summary: We have developed a GSH-triggered, activatable, and cancer-targeting probe, MBP, based on our rational design of a small NIRF photosensitizer, methylene blue. This multifunctional probe can self-assemble and present as nano-photosensitizer, MBNPs. Hence, an “all-in-one” cancer phototheranostic strategy with multiple cancer-targeting abilities and upgraded PDT mode has been proposed and established. 
-
+summary: 
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 links:
-  - name: ScienceDirect
-    url: https://www.sciencedirect.com/science/article/pii/S0142961222005567
+  - name: Wiley Press
+    url: https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202402838
   - name: PubMed
-    url: https://pubmed.ncbi.nlm.nih.gov/36410110
-url_pdf: uploads/biomaterials2022.pdf
+    url: https://pubmed.ncbi.nlm.nih.gov/38896788
+url_pdf: uploads/advs202402838.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: '© 2022 Elsevier Ltd. All rights reserved.'
+  caption: 
   focal_point: ''
   preview_only: false
 
@@ -77,9 +82,6 @@ image:
 ---
 
 **Highlights:**
-<p style='text-align: justify;'> 1. A GSH-triggered, activatable, and cancer-targeting probe is developed based on the rational design of methylene blue. This multifunctional probe can self-assemble into nano-photosensitizer, MBNPs. </p>
-<p style='text-align: justify;'> 2. In vitro and cellular experiments demonstrate the mechanism and superior therapeutic efficacy/precision of MBNPs. </p>
-<p style='text-align: justify;'> 3. MBNPs are applied to in vivo cancer PDT experiments, demonstrating good biosafety and remarkable efficacy/precision in tumor ablation. </p>
-<p style='text-align: justify;'> 4. The “all-in-one” tactic achieves fluorescence/photoacoustic guided cancer phototheranostics with single small molecules. </p>
+<p style='text-align: justify;'> In summary, we have demonstrated that NBSe derivatives possess unique reactivity and can be rationally developed as highly efficient fluorescent warheads for selective labeling of cysteines or lysines under biocompatible conditions. Chloro or phenoxy-substituted NBSe derivatives exhibit high specificity toward cysteines in proteome labeling, providing new opportunities for chemical proteomic profiling and covalent-drug design. On the other hand, alkoxy-NBSe, a latent electrophile, can be designed to selectively react with lysines in a protein in regioselective manner using proximity-driven strategy. In addition, NBSe derivatives exhibit unique photophysical properties, and can serve as imaging fluorophores as well as small-sized photosensitizers. Although the current probes have not yet been effective for in vivo PDT experiments, we can further expand the conjugation system to shift absorption to longer wavelengths or extend the strategy to design activatable PDT triggered by cancer-overexpressed proteins. We envision that our study will provide new insight into designing selective warheads for proteinogenic amino acid modification and add useful tools for the development of protein-based therapeutics. </p>
 
-Supplementary Information can be accessed [**here**](uploads/biomaterials2022si.pdf).
+Supplementary Information can be accessed [**here**](uploads/advs8749-sup-0001-suppmat.pdf).
