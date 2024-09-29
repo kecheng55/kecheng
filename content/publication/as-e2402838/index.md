@@ -1,5 +1,5 @@
 ---
-title: 'Reactivity-Tunable Fluorescent Platform for Selective andBiocompatible Modiﬁcation of Cysteine or Lysine'
+title: 'Reactivity-Tunable Fluorescent Platform for Selective and Biocompatible Modification of Cysteine or Lysine'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
