@@ -49,7 +49,7 @@ links:
   - name: PubMed
     url: https://pubmed.ncbi.nlm.nih.gov/38725156
   - name: Source Code
-    url: https://uniptm.com
+    url: https://www.github.com/TransPTM/TransPTM
 url_pdf: uploads/bbae219.pdf
 
 # Featured image
