@@ -48,7 +48,7 @@ links:
   - name: bioRxiv
     url: https://www.biorxiv.org/content/10.1101/2024.08.03.606471v1
   - name: Source Code
-    url: https://www.github.com/TransPTM/UniPTM.
+    url: https://www.github.com/TransPTM/UniPTM
 url_pdf: uploads/uniptm.pdf
 
 # Featured image
@@ -72,9 +72,8 @@ image:
 ---
 
 **Highlights:**
-<p style='text-align: justify;'> 1. A GSH-triggered, activatable, and cancer-targeting probe is developed based on the rational design of methylene blue. This multifunctional probe can self-assemble into nano-photosensitizer, MBNPs. </p>
-<p style='text-align: justify;'> 2. In vitro and cellular experiments demonstrate the mechanism and superior therapeutic efficacy/precision of MBNPs. </p>
-<p style='text-align: justify;'> 3. MBNPs are applied to in vivo cancer PDT experiments, demonstrating good biosafety and remarkable efficacy/precision in tumor ablation. </p>
-<p style='text-align: justify;'> 4. The “all-in-one” tactic achieves fluorescence/photoacoustic guided cancer phototheranostics with single small molecules. </p>
+<p style='text-align: justify;'> 1. UniPTM takes full-length protein sequence data as input, considering all amino acids across the entire protein that could influence the occurrence of PTMs, even if they are distal. </p>
+<p style='text-align: justify;'> 2. PTMseq dataset consists subsets of nine types of PTMed sequences, currently encompassing a total of 34,514 distinct PTM sites annotated across 12,203 full-length protein sequences. </p>
+<p style='text-align: justify;'> 3. The pre-trained ESM-2 model embeds contextual information from the entire sequence into each residue, allowing every target amino acid to engage independently. </p>
 
 Supplementary Information can be accessed [**here**](uploads/uniptm-si.pdf).
