@@ -1,26 +1,23 @@
 ---
-title: 'Self-assembled nano-photosensitizer for targeted, activatable, and biosafe cancer phototheranostics'
+title: 'Synthesis and In Vivo Profiling of Desymmetrized Antimalarial Trioxolanes with Diverse Carbamate Side Chains'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Matthew T. Klope
+  - Juan A. Tapia Cardona
+  - Jun Chen
+  - Ryan L. Gonciarz
   - admin
-  - Junyang Qi
-  - Jie Zhang
-  - Huangxu Li
-  - Xiaojie Ren
-  - Wenyu Wei
-  - Lingkuan Meng
-  - Jing Li
-  - Qianqian Li
-  - Huatang Zhang
-  - Wenbin Deng
-  - Hongyan Sun
-  - Lin Mei
+  - Priyadarshini Jaishankar
+  - Julie Kim
+  - Jenny Legac
+  - Philip J. Rosenthal
+  - Adam R. Renslo
 
-date: '2022-11-15'
-doi: 10.1016/j.biomaterials.2022.121916
+date: '2024-09-05'
+doi: 10.1021/acsmedchemlett.4c00365
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-11-15T00:00:00Z'
@@ -32,34 +29,33 @@ publishDate: '2022-11-15T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In ***Biomaterials***
-publication_short: In **_Biomaterials_** 2022, _291_, 121916
+publication: In ***ACS Medicinal Chemistry Letters***
+publication_short: In **_ACS Med. Chem. Lett._** 2024
 
-Abstract: Cancer treatment currently still faces crucial challenges in therapeutic effectiveness, precision, and complexity. Photodynamic therapy (PDT) as a non-invasive tactic has earned widespread popularity for its excellent therapeutic output, flexibility, and restrained toxicity. Nonetheless, drawbacks, including low efficiency, poor cancer specificity, and limited therapeutic depth, remain considerable during the cancer treatment. Although great effort has been made to improve the performance, the overall efficiency and biosafety are still ambiguous and unable to meet urgent clinical needs. Herein, this study integrates merits from previous PDT strategies and develops a cancer-targeting, activatable, biosafe photosensitizer. Owing to excellent self-assembly ability, this photosensitizer can be conveniently prepared as multifunctional nano-photosensitizers, namely MBNPs, and applied to in vivo cancer phototheranostics in “all-in-one” mode. This study successfully verifies the mechanism of MBNPs, then deploys them to cell-based and in vivo cancer PDT. Based on the unique cancer microenvironment, MBNPs achieve precise distribution, accumulation, and activation towards the tumor, releasing methylene blue as a potent photosensitizer for phototherapy. The PDT outcome demonstrates MBNPs’ superior cancer specificity, remarkable PDT efficacy, and negligible toxicity. Meanwhile, in vivo NIR fluorescence and photoacoustic imaging have been utilized to guide the PDT treatment synergistically. Additionally, the biosafety of the MBNPs-based PDT treatment is ensured, thus providing potential for future clinical studies.
+Abstract: The recent withdrawal of artefenomel from clinical development leaves no endoperoxide-class agents in the antimalarial pipeline. Synthetic endoperoxides with a desymmetrized structure have demonstrated promising physiochemical and in vivo properties. Here we expand on our initial investigation of trans-3″ carbamate substitution with a diverse array of amine-, alcohol-, and sulfinyl-terminated analogues prepared in (S,S) and (R,R) configurations. In general, this chemotype combines low-nM antiplasmodial activity with excellent aqueous solubility but widely varying human liver microsome (HLM) stability. We evaluated 20 novel analogues in the P. berghei mouse malaria model, identifying new analogues such as RLA-4767 (9a) and RLA-5489 (9d), with HLM stability and pharmacokinetic profiles superior to analogues from our initial report (e.g., RLA-4776, 8a). These new leads approach or equal the efficacy of artefenomel after two daily oral doses of 10 mg/kg, thus revealing a promising chemotype with the potential to deliver development candidates.
 
 # Summary. An optional shortened abstract.
-summary: We have developed a GSH-triggered, activatable, and cancer-targeting probe, MBP, based on our rational design of a small NIRF photosensitizer, methylene blue. This multifunctional probe can self-assemble and present as nano-photosensitizer, MBNPs. Hence, an “all-in-one” cancer phototheranostic strategy with multiple cancer-targeting abilities and upgraded PDT mode has been proposed and established. 
+summary: 
 
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 links:
-  - name: ScienceDirect
-    url: https://www.sciencedirect.com/science/article/pii/S0142961222005567
-  - name: PubMed
-    url: https://pubmed.ncbi.nlm.nih.gov/36410110
-url_pdf: uploads/biomaterials2022.pdf
+  - name: American Chemical Society
+    url: https://pubs.acs.org/doi/full/10.1021/acsmedchemlett.4c00365
+
+url_pdf: uploads/ml4c00365.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: '© 2022 Elsevier Ltd. All rights reserved.'
+  caption: '© 2024 The Authors. Published by American Chemical Society'
   focal_point: ''
   preview_only: false
 
@@ -77,9 +73,5 @@ image:
 ---
 
 **Highlights:**
-<p style='text-align: justify;'> 1. A GSH-triggered, activatable, and cancer-targeting probe is developed based on the rational design of methylene blue. This multifunctional probe can self-assemble into nano-photosensitizer, MBNPs. </p>
-<p style='text-align: justify;'> 2. In vitro and cellular experiments demonstrate the mechanism and superior therapeutic efficacy/precision of MBNPs. </p>
-<p style='text-align: justify;'> 3. MBNPs are applied to in vivo cancer PDT experiments, demonstrating good biosafety and remarkable efficacy/precision in tumor ablation. </p>
-<p style='text-align: justify;'> 4. The “all-in-one” tactic achieves fluorescence/photoacoustic guided cancer phototheranostics with single small molecules. </p>
 
-Supplementary Information can be accessed [**here**](uploads/biomaterials2022si.pdf).
+Supplementary Information can be accessed [**here**](uploads/ml4c00365_si_001.pdf).
