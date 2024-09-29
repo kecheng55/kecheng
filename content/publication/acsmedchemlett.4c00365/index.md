@@ -72,6 +72,6 @@ image:
 #   Otherwise, set `slides: ""`.
 ---
 
-**Highlights:**
+**Supporting Information:**
 
 Supplementary Information can be accessed [**here**](uploads/ml4c00365_si_001.pdf).
