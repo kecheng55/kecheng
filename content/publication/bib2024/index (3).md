@@ -53,7 +53,7 @@ url_pdf: uploads/bbae219.pdf
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: '© 2024 Elsevier Ltd. All rights reserved.'
+  caption: 'Copyright © 2024 Oxford University Press'
   focal_point: ''
   preview_only: false
 
