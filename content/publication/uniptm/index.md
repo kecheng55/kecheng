@@ -6,11 +6,9 @@ title: 'UniPTM: Multiple PTM site prediction on full-length protein sequence'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Lingkuan Meng
-  - Xingjian Chen
+  - Jiecong Lin
   - admin
-  - Nanjun Chen
-  - Zetian Zheng
-  - Fuzhou Wang
+  - Kui Xu
   - Hongyan Sun
   - Ka-Chun Wong
 
@@ -30,7 +28,7 @@ publication_types: ['3']
 publication: In ***bioRxiv***
 publication_short: In **_bioRxiv_** 2024.08.03.606471
 
-Abstract: Post-translational modifications (PTMs) enrich the functional diversity of proteins by attaching chemical groups to the side chains of amino acids. In recent years, a myriad of AI models have been proposed to predict many specific types of PTMs. However, those models typically adopt the sliding window approach to extract short and equal-length protein fragments from full-length proteins for model training. Unfortunately, such a subtle step results in the loss of long-range information from distal amino acids, which may impact the PTM formation process. In this study, we introduce UniPTM, a window-free model designed to train and test on natural and full-length protein sequences, enabling the prediction of multiple types of PTMs in a holistic manner. Moreover, we established PTMseq, the first comprehensive dataset of full-length protein sequences with annotated PTMs, to train and validate our model. UniPTM has undergone extensive validations and significantly outperforms existing models, elucidating the influence of protein sequence completeness on PTM. Consequently, UniPTM offers interpretable and biologically meaningful predictions, enhancing our understanding of protein functionally and regulation. The source code and PTMseq dataset for UniPTM are available at https://www.github.com/TransPTM/UniPTM.
+Abstract: Post-translational modifications (PTMs) enrich the functional diversity of proteins by attaching chemical groups to the side chains of amino acids. In recent years, a myriad of AI models have been proposed to predict many specific types of PTMs. However, those models typically adopt the sliding window approach to extract short and equal-length protein fragments from full-length proteins for model training. Unfortunately, such a subtle step results in the loss of long-range information from distal amino acids, which may impact the PTM formation process. In this study, we introduce UniPTM, a window-free model designed to train and test on natural and full-length protein sequences, enabling the prediction of multiple types of PTMs in a holistic manner. Moreover, we established PTMseq, the first comprehensive dataset of full-length protein sequences with annotated PTMs, to train and validate our model. UniPTM has undergone extensive validations and significantly outperforms existing models, elucidating the influence of protein sequence completeness on PTM. Consequently, UniPTM offers interpretable and biologically meaningful predictions, enhancing our understanding of protein functionally and regulation. The source code and PTMseq dataset for UniPTM are available at https://uniptm.com.
 
 # Summary. An optional shortened abstract.
 summary:
