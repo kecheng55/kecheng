@@ -5,22 +5,20 @@ title: 'Self-assembled nano-photosensitizer for targeted, activatable, and biosa
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Aidan T Pezacki
+  - Ryan L Gonciarz
+  - Toshitaka Okamura
+  - Carson D Matier
+  - Laura Torrente
   - admin
-  - Junyang Qi
-  - Jie Zhang
-  - Huangxu Li
-  - Xiaojie Ren
-  - Wenyu Wei
-  - Lingkuan Meng
-  - Jing Li
-  - Qianqian Li
-  - Huatang Zhang
-  - Wenbin Deng
-  - Hongyan Sun
-  - Lin Mei
-
-date: '2022-11-15'
-doi: 10.1016/j.biomaterials.2022.121916
+  - Sophia G Miller
+  - Martina Ralle
+  - Nathan P Ward
+  - Gina M DeNicola
+  - Adam R Renslo
+  - Christopher J Chang
+date: '2024-07-05'
+doi: 10.1073/pnas.2401579121
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-11-15T00:00:00Z'
@@ -32,34 +30,35 @@ publishDate: '2022-11-15T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In ***Biomaterials***
-publication_short: In **_Biomaterials_** 2022, _291_, 121916
+publication: In ***PNAS***
+publication_short: In **_PNAS_** 2024, 121(28), e2401579121
 
-Abstract: Cancer treatment currently still faces crucial challenges in therapeutic effectiveness, precision, and complexity. Photodynamic therapy (PDT) as a non-invasive tactic has earned widespread popularity for its excellent therapeutic output, flexibility, and restrained toxicity. Nonetheless, drawbacks, including low efficiency, poor cancer specificity, and limited therapeutic depth, remain considerable during the cancer treatment. Although great effort has been made to improve the performance, the overall efficiency and biosafety are still ambiguous and unable to meet urgent clinical needs. Herein, this study integrates merits from previous PDT strategies and develops a cancer-targeting, activatable, biosafe photosensitizer. Owing to excellent self-assembly ability, this photosensitizer can be conveniently prepared as multifunctional nano-photosensitizers, namely MBNPs, and applied to in vivo cancer phototheranostics in “all-in-one” mode. This study successfully verifies the mechanism of MBNPs, then deploys them to cell-based and in vivo cancer PDT. Based on the unique cancer microenvironment, MBNPs achieve precise distribution, accumulation, and activation towards the tumor, releasing methylene blue as a potent photosensitizer for phototherapy. The PDT outcome demonstrates MBNPs’ superior cancer specificity, remarkable PDT efficacy, and negligible toxicity. Meanwhile, in vivo NIR fluorescence and photoacoustic imaging have been utilized to guide the PDT treatment synergistically. Additionally, the biosafety of the MBNPs-based PDT treatment is ensured, thus providing potential for future clinical studies.
+
+Abstract: Iron is an essential element for life owing to its ability to participate in a diverse array of oxidation–reduction reactions. However, misregulation of iron-dependent redox cycling can also produce oxidative stress, contributing to cell growth, proliferation, and death pathways underlying aging, cancer, neurodegeneration, and metabolic diseases. Fluorescent probes that selectively monitor loosely bound Fe(II) ions, termed the labile iron pool, are potentially powerful tools for studies of this metal nutrient; however, the dynamic spatiotemporal nature and potent fluorescence quenching capacity of these bioavailable metal stores pose challenges for their detection. Here, we report a tandem activity-based sensing and labeling strategy that enables imaging of labile iron pools in live cells through enhancement in cellular retention. Iron green-1 fluoromethyl (IG1-FM) reacts selectively with Fe(II) using an endoperoxide trigger to release a quinone methide dye for subsequent attachment to proximal biological nucleophiles, providing a permanent fluorescent stain at sites of elevated labile iron. IG1-FM imaging reveals that degradation of the major iron storage protein ferritin through ferritinophagy expands the labile iron pool, while activation of nuclear factor-erythroid 2-related factor 2 (NRF2) antioxidant response elements (AREs) depletes it. We further show that lung cancer cells with heightened NRF2 activation, and thus lower basal labile iron, have reduced viability when treated with an iron chelator. By connecting labile iron pools and NRF2-ARE activity to a druggable metal-dependent vulnerability in cancer, this work provides a starting point for broader investigations into the roles of transition metal and antioxidant signaling pathways in health and disease.
 
 # Summary. An optional shortened abstract.
-summary: We have developed a GSH-triggered, activatable, and cancer-targeting probe, MBP, based on our rational design of a small NIRF photosensitizer, methylene blue. This multifunctional probe can self-assemble and present as nano-photosensitizer, MBNPs. Hence, an “all-in-one” cancer phototheranostic strategy with multiple cancer-targeting abilities and upgraded PDT mode has been proposed and established. 
+summary: 
 
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 links:
-  - name: ScienceDirect
-    url: https://www.sciencedirect.com/science/article/pii/S0142961222005567
+  - name: PNAS
+    url: https://www.pnas.org/doi/abs/10.1073/pnas.2401579121
   - name: PubMed
-    url: https://pubmed.ncbi.nlm.nih.gov/36410110
-url_pdf: uploads/biomaterials2022.pdf
+    url: https://pubmed.ncbi.nlm.nih.gov/38968123
+url_pdf: uploads/pnas.2401579121.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: '© 2022 Elsevier Ltd. All rights reserved.'
+  caption: ''
   focal_point: ''
   preview_only: false
 
@@ -76,10 +75,7 @@ image:
 #   Otherwise, set `slides: ""`.
 ---
 
-**Highlights:**
-<p style='text-align: justify;'> 1. A GSH-triggered, activatable, and cancer-targeting probe is developed based on the rational design of methylene blue. This multifunctional probe can self-assemble into nano-photosensitizer, MBNPs. </p>
-<p style='text-align: justify;'> 2. In vitro and cellular experiments demonstrate the mechanism and superior therapeutic efficacy/precision of MBNPs. </p>
-<p style='text-align: justify;'> 3. MBNPs are applied to in vivo cancer PDT experiments, demonstrating good biosafety and remarkable efficacy/precision in tumor ablation. </p>
-<p style='text-align: justify;'> 4. The “all-in-one” tactic achieves fluorescence/photoacoustic guided cancer phototheranostics with single small molecules. </p>
+**Significance:**
+<p style='text-align: justify;'> Iron sustains fundamental chemical processes across all kingdoms of life. However, the fluorescence quenching properties and dynamic nature of this metal nutrient make it challenging to study in complex biological systems. We present a tandem activity-based sensing/labeling strategy to enable iron detection with a turn-on fluorescence response and enhanced cellular retention through iron-dependent release of a dye that covalently traps at sites of high iron. This platform reveals complementary expansion or depletion of labile iron pools driven by degradation of ferritin or activation of the nuclear factor-erythroid 2-related factor 2 (NRF2) antioxidant response element, respectively. We further found that cancer cells with heightened NRF2 activation, and thus lower labile iron, are susceptible to iron chelation, establishing a potential druggable metal-dependent vulnerability in cancer. </p>
 
-Supplementary Information can be accessed [**here**](uploads/biomaterials2022si.pdf).
+Supplementary Information can be accessed [**here**](uploads/pnas.2401579121.sapp.pdf).
