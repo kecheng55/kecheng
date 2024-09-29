@@ -5,18 +5,18 @@ title: 'A tandem activity-based sensing and labeling strategy reveals antioxidan
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Aidan T Pezacki
-  - Ryan L Gonciarz
+  - Aidan T. Pezacki
+  - Ryan L. Gonciarz
   - Toshitaka Okamura
-  - Carson D Matier
+  - Carson D. Matier
   - Laura Torrente
   - admin
-  - Sophia G Miller
+  - Sophia G. Miller
   - Martina Ralle
-  - Nathan P Ward
-  - Gina M DeNicola
-  - Adam R Renslo
-  - Christopher J Chang
+  - Nathan P. Ward
+  - Gina M. DeNicola
+  - Adam R. Renslo
+  - Christopher J. Chang
 date: '2024-07-05'
 doi: 10.1073/pnas.2401579121
 
