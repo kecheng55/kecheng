@@ -48,7 +48,7 @@ links:
   - name: bioRxiv
     url: https://www.biorxiv.org/content/10.1101/2024.08.03.606471v1
   - name: Source Code
-    url: https://www.github.com/TransPTM/UniPTM
+    url: https://www.uniptm.com
 url_pdf: uploads/uniptm.pdf
 
 # Featured image
