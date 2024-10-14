@@ -24,7 +24,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Postdoctoral Researcher
+        - title: Postdoctoral Scholar
           company: University of California San Francisco
           company_url: https://profiles.ucsf.edu/ke.cheng
           company_logo: UCSF
@@ -46,7 +46,7 @@ sections:
               Projects include:
               * Self-assembly nano-PROTAC for synergetic photo-chemo-therapy
               * Black phosphorus nanomaterials for biomedical application
-        - title: Postdoctoral Researcher
+        - title: Research Assistant
           company: City University of Hong Kong
           company_url: https://scholars.cityu.edu.hk/en/persons/ke-cheng(58c29bd6-cebe-40ed-acd8-7ed1cee38a13).html
           company_logo: cityu1
