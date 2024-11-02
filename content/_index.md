@@ -46,12 +46,12 @@ sections:
               Projects include:
               * Self-assembly nano-PROTAC for synergetic photo-chemo-therapy
               * Black phosphorus nanomaterials for biomedical application
-        - title: Research Assistant
+        - title: Doctor of Philosophy
           company: City University of Hong Kong
           company_url: https://scholars.cityu.edu.hk/en/persons/ke-cheng(58c29bd6-cebe-40ed-acd8-7ed1cee38a13).html
           company_logo: cityu1
           location: Hong Kong
-          date_start: '2021-09-01'
+          date_start: '2018-09-01'
           date_end: '2022-09-30'
           description: |2-
               Projects include:
