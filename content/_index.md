@@ -136,7 +136,7 @@ sections:
           name: DM Me
           link: 'https://twitter.com/kecheng55'
       address:
-        street: 600 16th Street
+        street: Genentech Hall Box 2280, 600 16th Street
         city: San Francisco
         region: California
         postcode: '94158'
