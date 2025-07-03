@@ -136,10 +136,10 @@ sections:
           name: DM Me
           link: 'https://twitter.com/kecheng55'
       address:
-        street: Genentech Hall Box 2280, 600 16th Street #N554
+        street: 600 16th St. Genentech Hall Box 2280
         city: San Francisco
         region: California
-        postcode: '94158'
+        postcode: '94143'
         country: United States
         country_code: US
       # Automatically link email and phone or display as text?
