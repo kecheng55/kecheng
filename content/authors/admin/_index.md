@@ -22,14 +22,14 @@ organizations:
     url: https://www.ucsf.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests lie at the surface of chemistry and biology, where I am deeply passionate about applying innovative chemistry to advance fields such as chemoproteomics, drug discovery, nanomedicine, and theranostics. My aim is to provide robust methodologies for mapping biological interactomes, accelerating drug development, and expanding therapeutic opportunities.
+bio: I am a chemical biologist with a strong focus on leveraging organic chemical tools and strategies to drive small-molecule drug discovery and expand therapeutic possibilities. My research centers on using chemical groups such as tetrazole, isoxazole, and trioxolane to develop photoaffinity probes for high-throughput screening of novel drug candidates and direct profiling of cellular druggable targets through chemoproteomics. I also have extensive experience in designing activatable chemical probes, fluorescent probes, prodrugs, and radioligand agents for targeted cancer treatment. Additionally, I am deeply interested in applying small-molecule probes and inorganic nanomaterials to engineer nanomedicines for precise cancer therapeutics.
 
 # Interests to show in About widget
 interests:
   - Chemical biology
   - Medicinal Chemistry
-  - Nanomaterials
-  - Cancer theranostics
+  - Chemoproteomics
+  - Cancer Theranostics
   
 
 # Education to show in About widget
