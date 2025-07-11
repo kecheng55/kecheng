@@ -18,8 +18,8 @@ role: PhD, MSc | Postdoc@UCSF
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of California, San Francisco (UCSF)
-    url: https://www.ucsf.edu/
+  - name: UCSF Profiles
+    url: https://profiles.ucsf.edu/ke.cheng
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a chemical biologist specializing in the development of novel small-molecule drugs and probes for targeted cancer therapy. My work integrates probe design, chemoproteomics, molecular biology, and nanotechnology to uncover druggable targets and engineer precision therapeutic strategies.
