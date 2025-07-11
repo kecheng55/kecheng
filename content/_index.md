@@ -47,7 +47,7 @@ sections:
               Projects include:
               * Developing activable nano-PROTAC for synergetic anticancer therapy
               * Activatable disulfide nanoparticles for cancer phototherapies
-        - title: Doctor of Philosophy
+        - title: PhD Student & Research Associate
           company: City University of Hong Kong
           company_url: https://scholars.cityu.edu.hk/en/persons/ke-cheng(58c29bd6-cebe-40ed-acd8-7ed1cee38a13).html
           company_logo: cityu1
