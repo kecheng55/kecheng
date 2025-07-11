@@ -22,7 +22,7 @@ organizations:
     url: https://www.ucsf.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a chemical biologist with a strong focus on leveraging organic chemical tools and strategies to drive small-molecule drug discovery and expand therapeutic possibilities. My research centers on using chemical groups such as tetrazole, isoxazole, and trioxolane to develop photoaffinity probes for high-throughput screening of novel drug candidates and direct profiling of cellular druggable targets through chemoproteomics. I also have extensive experience in designing activatable chemical probes, fluorescent probes, prodrugs, and radioligand agents for targeted cancer treatment. Additionally, I am deeply interested in applying small-molecule probes and inorganic nanomaterials to engineer nanomedicines for precise cancer therapeutics.
+bio: I am a chemical biologist specializing in the development of novel small-molecule drugs and probes for targeted cancer therapy. My work integrates probe design, chemoproteomics, molecular biology, and nanotechnology to uncover druggable targets and engineer precision therapeutic strategies.
 
 # Interests to show in About widget
 interests:
@@ -79,5 +79,5 @@ email: ke.cheng@ucsf.edu
 highlight_name: true
 ---
 
-My research focuses on using new chemical approaches to advance drug discovery and therapeutic options. I have developed tetrazole and isoxazole as native photo-cross-linkers for chemoproteomics, offering direct interactome mapping methods for tetrazole/isoxazole drug development. I am also passionate about crafting small-molecule probes/inorganic nanomaterials for precise, targeted cancer theranostics.
+I am a chemical biologist with a strong focus on leveraging organic chemical tools and strategies to drive small-molecule drug discovery and expand therapeutic possibilities. My research centers on using chemical groups such as tetrazole, isoxazole, and trioxolane to develop photoaffinity probes for high-throughput screening of novel drug candidates and direct profiling of cellular druggable targets through chemoproteomics. I also have extensive experience in designing activatable chemical probes, fluorescent probes, prodrugs, and radioligand agents for targeted cancer treatment. Additionally, I am deeply interested in applying small-molecule probes and inorganic nanomaterials to engineer nanomedicines for precise cancer therapeutics.
 {style="text-align: justify;"}
