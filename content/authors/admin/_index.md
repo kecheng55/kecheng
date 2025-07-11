@@ -35,7 +35,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Chemistry
+    - course: PhD in Chemistry and Chemical biology
       institution: City University of Hong Kong
       year: 2021
 
