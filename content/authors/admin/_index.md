@@ -35,7 +35,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Chemistry and Chemical biology
+    - course: PhD in Chemical Biology
       institution: City University of Hong Kong
       year: 2021
 
@@ -73,7 +73,7 @@ social:
     link: uploads/CV - Ke Cheng.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ke.cheng@ucsf.edu
+email: ke@chengresearch.com
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
