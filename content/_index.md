@@ -40,9 +40,9 @@ sections:
           company: Sun Yat-sen University
           company_url: https://www.sysu.edu.cn/sysuen
           company_logo: sysu2
-          location: Shenzhen
-          date_start: '2022-10-01'
-          date_end: '2023-12-01'
+          location: Guangzhou
+          date_start: '2022-11-01'
+          date_end: '2023-11-30'
           description: |2-
               Projects include:
               * Developing activable nano-PROTAC for synergetic anticancer therapy
@@ -129,7 +129,7 @@ sections:
       text: |-
         I'm delighted to collaborate with researchers worldwide to address important questions and make meaningful advancements. Feel free to contact me via email or social media.
       # Contact (add or remove contact options as necessary)
-      email: ke.cheng@ucsf.edu
+      email: ke@chengresearch.com
       phone: 415-993-2020
       contact_links:
         - icon: twitter
