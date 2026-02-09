@@ -34,7 +34,8 @@ sections:
           description: |2-
               Projects include:
               * Developing next-generation CD46 targeting antibody drug conjugates (ADCs) for prostate cancer.
-              * Developing novel small-molecule chemical probes and drugs for infectious disease treatment, new druggable target identification, and targeted radioligand therapies & chemotherapies for cancer treatment. Related publication: PNAS 2024, 121(28), e2401579121; ACS Med. Chem. Lett. 15(10), 1764–1770.
+              * Developing novel small-molecule chemical probes and drugs for infectious disease treatment, new druggable target identification, and targeted radioligand therapies & chemotherapies for cancer treatment.
+              * Related publication: PNAS 2024, 121(28), e2401579121; ACS Med. Chem. Lett. 15(10), 1764–1770.
         - title: Postdoctoral Researcher
           company: Sun Yat-sen University
           company_url: https://www.sysu.edu.cn/sysuen
@@ -44,8 +45,8 @@ sections:
           date_end: '2023-11-30'
           description: |2-
               Projects include:
-              * Developing activable nano-PROTAC for synergetic anticancer therapy
-              * Activatable disulfide nanoparticles for cancer phototherapies
+              * Development of activatable small-molecule probes and nanomedicines aimed at targeted protein degradation and cancer treatment.
+              * Representative publication: Biomaterials 2022, 291, 121916; Chem. Eng. J. 2023, 472, 144977.
         - title: PhD Student & Research Associate
           company: City University of Hong Kong
           company_url: https://scholars.cityu.edu.hk/en/persons/ke-cheng(58c29bd6-cebe-40ed-acd8-7ed1cee38a13).html
@@ -55,8 +56,8 @@ sections:
           date_end: '2022-09-30'
           description: |2-
               Projects include:
-              * Developing isoxazole-based photochemical tools for chemoproteomics applications
-              * Self-assembly activatable NIR fluorescent probes for cancer theranostics
+              * Development of small-molecule fluorescent probes for cancer theranostics, and the creation of novel photochemical tools to facilitate drug discovery and identification of druggable targets. Conducted interdisciplinary research at the interface of chemical biology and medicinal chemistry to support advances in targeted cancer therapy.
+              * Representative publication: Biomaterials 2022, 291, 121916; Angew. Chem. Int. Ed. 2022, 61(47), e202209947.
     design:
       columns: '2'
   - block: collection
