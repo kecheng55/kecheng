@@ -26,7 +26,7 @@ bio: I am a chemical biologist with a strong background in organic chemistry, bi
 
 # Interests to show in About widget
 interests:
-  - Antibody-Drug Conjugates(ADCs)
+  - Antibody-Drug Conjugates
   - Small-Molecule Drugs & Probes
   - Targeted Cancer Treatment
   - Chemoproteomics
@@ -79,5 +79,5 @@ email: ke@chengresearch.com
 highlight_name: true
 ---
 
-I am a chemical biologist with a strong focus on leveraging organic chemical tools and strategies to drive small-molecule drug discovery and expand therapeutic possibilities. My research centers on using chemical groups such as tetrazole, isoxazole, and trioxolane to develop photoaffinity probes for high-throughput screening of novel drug candidates and direct profiling of cellular druggable targets through chemoproteomics. I also have extensive experience in designing activatable chemical probes, fluorescent probes, prodrugs, and radioligand agents for targeted cancer treatment. Additionally, I am deeply interested in applying small-molecule probes and inorganic nanomaterials to engineer nanomedicines for precise cancer therapeutics.
+I am a chemical biologist with a strong background in organic chemistry, bioconjugation, protein biology, and oncology. My research focuses on developing chemical tools and strategies to advance small-molecule probes/drugs, antibody drug conjugates (ADCs), and  radioligand agents for targeted cancer therapies. In the area of ADC development, I have designed and developed new cleavable linkers and next-generation payloads, including molecular glues, PROTACs, protein translation inhibitors, and kinase inhibitors. For functional probe development, I have created tumor-activatable probes and radioligand therapies to enable precise cancer diagnostics and targeted treatment. In small-molecule drug discovery, I applied diverse chemical groups, such as tetrazoles, isoxazoles, and trioxolanes, to build screening libraries and to profile druggable protein targets using chemoproteomics.
 {style="text-align: justify;"}
