@@ -22,14 +22,14 @@ organizations:
     url: https://profiles.ucsf.edu/ke.cheng
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a chemical biologist specializing in the development of novel small-molecule drugs and probes for targeted cancer therapy. My work integrates probe design, chemoproteomics, molecular biology, and nanotechnology to uncover druggable targets and engineer precision therapeutic strategies.
+bio: I am a chemical biologist with a strong background in organic chemistry, bioconjugation, protein biology, and oncology. My research focuses on developing chemical tools and strategies to advance small-molecule probes/drugs, antibody drug conjugates (ADCs), and  radioligand agents for targeted cancer therapies. In the area of ADC development, I have designed and developed new cleavable linkers and next-generation payloads, including molecular glues, PROTACs, protein translation inhibitors, and kinase inhibitors. For functional probe development, I have created tumor-activatable probes and radioligand therapies to enable precise cancer diagnostics and targeted treatment. In small-molecule drug discovery, I applied diverse chemical groups, such as tetrazoles, isoxazoles, and trioxolanes, to build screening libraries and to profile druggable protein targets using chemoproteomics.
 
 # Interests to show in About widget
 interests:
-  - Chemical biology
-  - Medicinal Chemistry
+  - Antibody-Drug Conjugates(ADCs)
+  - Small-Molecule Drugs & Probes
+  - Targeted Cancer Treatment
   - Chemoproteomics
-  - Cancer Theranostics
   
 
 # Education to show in About widget
