@@ -33,9 +33,8 @@ sections:
           date_end: ''
           description: |2-
               Projects include:
-              * Design and synthesis of new trioxolane-based antimalarials and anticancer drugs
-              * Development of small-molecule activatable probes for targeted radioligand therapy
-              * Stereoprobe probes for new anticancer drug screening and druggable targets profiling
+              * Developing next-generation CD46 targeting antibody drug conjugates (ADCs) for prostate cancer.
+              * Developing novel small-molecule chemical probes and drugs for infectious disease treatment, new druggable target identification, and targeted radioligand therapies & chemotherapies for cancer treatment. Related publication: PNAS 2024, 121(28), e2401579121; ACS Med. Chem. Lett. 15(10), 1764–1770.
         - title: Postdoctoral Researcher
           company: Sun Yat-sen University
           company_url: https://www.sysu.edu.cn/sysuen
