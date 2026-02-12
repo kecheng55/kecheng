@@ -69,7 +69,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/CV - Ke Cheng - Dec 2025.pdf
+    link: uploads/CV - Ke Cheng - Feb 2026.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ke@chengresearch.com
