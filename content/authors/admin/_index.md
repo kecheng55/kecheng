@@ -60,7 +60,7 @@ social:
     link: https://orcid.org/0000-0001-5057-3120
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/kecheng5/
+    link: https://www.linkedin.com/in/kecheng1/
   #- icon: researchgate
   #  icon_pack: fab
   #  link: https://www.researchgate.net/profile/Ke-Cheng-6
