@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD, MSc | Postdoc@UCSF
+#role: PhD | Postdoc@UCSF#
 
 # Organizations/Affiliations to show in About widget
 organizations:
